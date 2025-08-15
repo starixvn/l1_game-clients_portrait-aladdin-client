@@ -1,7 +1,7 @@
 export const settings = {
-    id: 132,
-    name: "FruitSamurai",
-    tolgeeNamespaces: ["FruitSamurai", "cascadingslot"],
+    id: 147,
+    name: "PickleballLoveStory",
+    tolgeeNamespaces: ["PickleballLoveStory", "cascadingslot"],
     durations: {
         wholeRound: 14,
         lockingBet: 3,
@@ -14,7 +14,7 @@ export const settings = {
     },
     isMiniGame: false,
     numberOfRoundHistory: 11,
-    observerNamespace: "FruitSamurai",
+    observerNamespace: "PickleballLoveStory",
     validateBalanceWhenBet: true,
 };
 

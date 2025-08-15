@@ -1,4 +1,4 @@
 window.crossConfig = {
     backgroundLocalized: false,
-    storagePrefixKey: "fruit_samurai",
+    storagePrefixKey: "pickleball_love_story",
 };
