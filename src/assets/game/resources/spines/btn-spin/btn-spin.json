@@ -1,228 +1,40 @@
 {
-"skeleton": { "hash": "7iS42e7JyaS/i9qeS+N6V9iY9j4", "spine": "3.8.99", "images": "./images/", "audio": "" },
+"skeleton": {
+	"hash": "beYLDpikZhpw94l4cxFY08Pgqc4",
+	"spine": "3.8.99",
+	"x": -88,
+	"y": -91,
+	"width": 176,
+	"height": 183,
+	"images": "./images/",
+	"audio": ""
+},
 "bones": [
 	{ "name": "root" },
-	{ "name": "circle_bg", "parent": "root", "length": 1, "color": "00ff5cff" },
-	{ "name": "hover_glow", "parent": "root", "color": "f3ff00ff" },
-	{ "name": "circle_glow", "parent": "root" },
-	{ "name": "electric", "parent": "root" }
+	{ "name": "bt-spin", "parent": "root" }
 ],
 "slots": [
-	{ "name": "circle_glow", "bone": "circle_glow" },
-	{ "name": "spin_btn", "bone": "circle_bg" },
-	{ "name": "Emerald_glow", "bone": "circle_bg", "blend": "additive" },
-	{ "name": "hover_circle", "bone": "hover_glow", "blend": "additive" },
-	{ "name": "disable", "bone": "root" },
-	{ "name": "extra_particle/extra_particle_00", "bone": "circle_bg", "blend": "additive" },
-	{ "name": "electric", "bone": "electric", "blend": "additive" }
+	{ "name": "bt-spin", "bone": "bt-spin", "attachment": "bt-spin" }
 ],
 "skins": [
 	{
 		"name": "default",
 		"attachments": {
-			"Emerald_glow": {
-				"Emerald_glow": { "width": 220, "height": 221 }
-			},
-			"circle_glow": {
-				"circle_glow": { "width": 220, "height": 221 }
-			},
-			"disable": {
-				"disable": { "width": 184, "height": 184 }
-			},
-			"electric": {
-				"extra/Electric _1": { "width": 180, "height": 180 },
-				"extra/Electric _2": { "width": 180, "height": 180 },
-				"extra/Electric _3": { "width": 180, "height": 180 },
-				"extra/Electric _4": { "width": 180, "height": 180 },
-				"extra/Electric _5": { "width": 180, "height": 180 },
-				"extra/Electric _6": { "width": 180, "height": 180 },
-				"extra/Electric _7": { "width": 180, "height": 180 },
-				"extra/Electric _8": { "width": 180, "height": 180 }
-			},
-			"extra_particle/extra_particle_00": {
-				"extra_particle/extra_particle_00": { "width": 1, "height": 1 },
-				"extra_particle/extra_particle_01": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_02": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_03": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_04": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_05": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_06": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_07": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_08": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_09": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_10": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_11": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_12": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_13": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_14": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_15": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_16": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_17": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_18": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_19": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_20": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_21": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_22": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_23": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_24": { "width": 220, "height": 221 },
-				"extra_particle/extra_particle_25": { "width": 220, "height": 221 }
-			},
-			"hover_circle": {
-				"hover_circle": { "width": 220, "height": 221 }
-			},
-			"spin_btn": {
-				"spin_btn": { "width": 184, "height": 184 }
+			"bt-spin": {
+				"bt-spin": { "y": 0.5, "width": 176, "height": 183 }
 			}
 		}
 	}
 ],
 "animations": {
-	"disable": {
-		"slots": {
-			"disable": {
-				"attachment": [
-					{ "name": "disable" }
-				]
-			}
-		}
-	},
-	"hover": {
-		"slots": {
-			"hover_circle": {
-				"color": [
-					{ "color": "ffffff00" },
-					{ "time": 0.1667, "color": "ffffff84", "curve": "stepped" },
-					{ "time": 0.5, "color": "ffffff84" },
-					{ "time": 0.8333, "color": "ffffff00" }
-				],
-				"attachment": [
-					{ "name": "hover_circle" }
-				]
-			}
-		},
-		"bones": {
-			"hover_glow": {
-				"scale": [
-					{ "x": 0.55, "y": 0.55, "curve": 0.139, "c3": 0.328 },
-					{ "time": 0.8333, "x": 1.062, "y": 1.062 }
-				]
-			}
-		}
-	},
 	"idle": {
-		"slots": {
-			"Emerald_glow": {
-				"color": [
-					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
-					{ "time": 1, "color": "ffffff67", "curve": 0.25, "c3": 0.75 },
-					{ "time": 2, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
-					{ "time": 3, "color": "ffffff67", "curve": 0.25, "c3": 0.75 },
-					{ "time": 4, "color": "ffffff00" }
-				],
-				"attachment": [
-					{ "name": "Emerald_glow" }
-				]
-			},
-			"circle_glow": {
-				"attachment": [
-					{ "name": "circle_glow" }
-				]
-			},
-			"spin_btn": {
-				"attachment": [
-					{ "name": "spin_btn" }
-				]
-			}
-		},
 		"bones": {
-			"circle_bg": {
-				"scale": [
-					{ "curve": 0.25, "c3": 0.75 },
-					{ "time": 1, "x": 1.04, "y": 1.04, "curve": 0.25, "c3": 0.75 },
-					{ "time": 2, "curve": 0.25, "c3": 0.75 },
-					{ "time": 3, "x": 1.04, "y": 1.04, "curve": 0.25, "c3": 0.75 },
-					{ "time": 4 }
-				]
-			},
-			"circle_glow": {
-				"scale": [
-					{ "x": 0.919, "y": 0.919, "curve": 0.25, "c3": 0.75 },
-					{ "time": 1, "x": 1.03, "y": 1.03, "curve": 0.25, "c3": 0.75 },
-					{ "time": 2, "x": 0.919, "y": 0.919, "curve": 0.25, "c3": 0.75 },
-					{ "time": 3, "x": 1.03, "y": 1.03, "curve": 0.25, "c3": 0.75 },
-					{ "time": 4, "x": 0.919, "y": 0.919 }
-				]
-			}
-		}
-	},
-	"spin": {
-		"slots": {
-			"Emerald_glow": {
-				"color": [
-					{ "color": "ffffff00" },
-					{ "time": 0.1333, "color": "ffffffad" }
-				]
-			},
-			"circle_glow": {
-				"color": [
-					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
-					{ "time": 0.7333, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
-					{ "time": 1, "color": "ffffff00" }
-				],
-				"attachment": [
-					{ "name": "circle_glow" }
-				]
-			},
-			"spin_btn": {
-				"attachment": [
-					{ "name": "spin_btn" }
-				]
-			}
-		},
-		"bones": {
-			"circle_bg": {
-				"scale": [
-					{ "curve": 0.164, "c3": 0.381 },
-					{ "time": 0.1, "x": 1.05, "y": 1.05, "curve": 0.164, "c3": 0.381 },
-					{ "time": 0.2 }
-				]
-			},
-			"circle_glow": {
-				"scale": [
-					{ "x": 1.02, "y": 1.02 }
-				]
-			}
-		}
-	},
-	"spin-extra": {
-		"slots": {
-			"electric": {
-				"attachment": [
-					{ "name": "extra/Electric _1" },
-					{ "time": 0.0333, "name": "extra/Electric _2" },
-					{ "time": 0.0667, "name": "extra/Electric _3" },
-					{ "time": 0.1, "name": "extra/Electric _4" },
-					{ "time": 0.1333, "name": "extra/Electric _5" },
-					{ "time": 0.1667, "name": "extra/Electric _6" },
-					{ "time": 0.2, "name": "extra/Electric _7" },
-					{ "time": 0.2333, "name": "extra/Electric _8" },
-					{ "time": 0.2667, "name": "extra/Electric _1" },
-					{ "time": 0.3, "name": "extra/Electric _2" },
-					{ "time": 0.3333, "name": "extra/Electric _3" },
-					{ "time": 0.3667, "name": "extra/Electric _4" },
-					{ "time": 0.4, "name": "extra/Electric _5" },
-					{ "time": 0.4333, "name": "extra/Electric _6" },
-					{ "time": 0.4667, "name": "extra/Electric _7" },
-					{ "time": 0.5, "name": "extra/Electric _8" },
-					{ "time": 0.5333, "name": "extra/Electric _1" },
-					{ "time": 0.5667, "name": "extra/Electric _2" },
-					{ "time": 0.6, "name": "extra/Electric _3" },
-					{ "time": 0.6333, "name": "extra/Electric _4" },
-					{ "time": 0.6667, "name": "extra/Electric _5" },
-					{ "time": 0.7, "name": "extra/Electric _6" },
-					{ "time": 0.7333, "name": "extra/Electric _7" },
-					{ "time": 0.7667, "name": "extra/Electric _8" }
+			"bt-spin": {
+				"rotate": [
+					{},
+					{ "time": 1.1667, "angle": 1.77 },
+					{ "time": 2.3333, "angle": -1.2 },
+					{ "time": 3.3333 }
 				]
 			}
 		}
