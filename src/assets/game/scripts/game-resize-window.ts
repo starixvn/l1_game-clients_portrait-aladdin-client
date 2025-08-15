@@ -9,6 +9,7 @@ export class GameResizeWindow extends Component {
     };
 
     protected onLoad(): void {
+        this.adjustResolution();
         this.setupResizeListener();
     }
 
