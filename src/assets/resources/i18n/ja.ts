@@ -7,7 +7,7 @@ export const languages = {
         "bet_choice": "ベット選択",
         "betChoice2": "ベット選択",
         "bet_choice_away": "アウェイ",
-        "bet_choice_draw": "ドロー",
+        "bet_choice_draw": "引き分け",
         "bet_choice_even": "偶数",
         "bet_choice_home": "ホーム",
         "bet_choice_odd": "奇数",
@@ -50,7 +50,7 @@ export const languages = {
         "hot": "ホット",
         "invalid_bet": "無効なベットです",
         "invalid_deal_hands": "ハンド数が無効です",
-        "invalid_free_spin": "無効なフリースピン",
+        "invalid_free_spin": "無効なFree Spin",
         "invalid_hand_id": "無効なハンドIDです",
         "invalid_position": "無効なポジションです",
         "invalid_stake_level": "無効なステークレベルです",
@@ -224,7 +224,15 @@ export const languages = {
         "under_maintenance_time": "%{startTime}から%{endTime}（GMT+8）まで",
         "win": "勝利",
         "win_loss": "損益",
-        "you_reach_max_win": "最大勝利額に達しました"
+        "you_reach_max_win": "最大勝利額に達しました",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot",
+        "message_error_claim_expired": "ボーナスは期限切れです。利用できなくなりました。(%{errorCode})",
+        "pf_header_server_seed_sha256_single": "サーバーシード SHA256",
+        "pf_ header_merge_client_seed_single": "クライアントシードを統合"
     },
     "cascadingslot": {
         "auto_spin": "オートスピン",
@@ -241,9 +249,9 @@ export const languages = {
         "disable_turbo_mode": "ターボモードをオフにする",
         "enable_turbo_mode": "ターボモードをオンにする",
         "example": "例:",
-        "extra_free_spin": "追加フリースピン",
-        "free_spin": "フリースピン",
-        "free_spin_left_amount": "フリースピン残り %{amount}",
+        "extra_free_spin": "追加Free Spin",
+        "free_spin": "Free Spins",
+        "free_spin_left_amount": "Free Spins残り %{amount}",
         "free_spin_title": "Free Spin",
         "FreeSpin-title": "Free Spin",
         "from_settle_to_spin1": "スピンして勝とう！",
@@ -284,11 +292,15 @@ export const languages = {
         "turbo_mode": "ターボモード",
         "warning_trial_mode": "リアルマネーでプレイ、リアルマネーを獲得！",
         "win_tumble_msg": "おめでとうございます！",
-        "you_win_free_spin": "当たり"
+        "you_win_free_spin": "当たり",
+        "you_have_won": null,
+        "in_free_spins": null,
+        "free_spins_active": null,
+        "tumble_win": "タンブルウィン"
     },
-    "FruitSamurai": {
-        "game_icon_name": "Fruit Samurai",
-        "game_name": "Fruit Samurai"
+    "PickleballLoveStory": {
+        "game_name": null,
+        "game_icon_name": null
     }
 };
 

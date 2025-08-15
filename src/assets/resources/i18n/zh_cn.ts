@@ -221,7 +221,18 @@ export const languages = {
         "under_maintenance_time": "从 %{startTime} 到 %{endTime} (GMT+8)",
         "win": "赢",
         "win_loss": "赢 输",
-        "you_reach_max_win": "您达到了最大胜利"
+        "you_reach_max_win": "您达到了最大胜利",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot",
+        "no_data": null,
+        "all": null,
+        "message_loading": "Loading",
+        "message_error_claim_expired": "奖金已过期，不再有效。 (%{errorCode})",
+        "pf_header_server_seed_sha256_single": "服务器种子 SHA256",
+        "pf_ header_merge_client_seed_single": "合并客户种子"
     },
     "cascadingslot": {
         "auto_spin": "自动旋转",
@@ -281,11 +292,15 @@ export const languages = {
         "turbo_mode": "涡轮模式",
         "warning_trial_mode": "真玩，\\n赢真钱",
         "win_tumble_msg": "恭喜！",
-        "you_win_free_spin": "您赢得"
+        "you_win_free_spin": "您赢得",
+        "you_have_won": null,
+        "in_free_spins": null,
+        "free_spins_active": null,
+        "tumble_win": "连续中奖"
     },
-    "FruitSamurai": {
-        "game_icon_name": "武士水果",
-        "game_name": "武士水果"
+    "PickleballLoveStory": {
+        "game_name": null,
+        "game_icon_name": null
     }
 };
 

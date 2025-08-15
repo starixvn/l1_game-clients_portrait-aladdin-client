@@ -221,7 +221,18 @@ export const languages = {
         "under_maintenance_time": "Thời gian bảo trì từ %{startTime} đến %{endTime} (GMT+8).",
         "win": "Thắng",
         "win_loss": "Thắng Thua",
-        "you_reach_max_win": "Bạn Đã Đạt Mức Tiền Thắng Tối Đa"
+        "you_reach_max_win": "Bạn Đã Đạt Mức Tiền Thắng Tối Đa",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot",
+        "no_data": null,
+        "all": null,
+        "message_loading": "Loading",
+        "message_error_claim_expired": "Thời gian nhận thưởng đã hết. (%{errorCode}) ",
+        "pf_header_server_seed_sha256_single": "Server Seed SHA256",
+        "pf_ header_merge_client_seed_single": "Kết hợp Client Seed "
     },
     "cascadingslot": {
         "auto_spin": "Tự Quay",
@@ -229,7 +240,7 @@ export const languages = {
         "auto_spin_left": "Lượt Quay Tự Động Còn Lại",
         "bet_level": "Mức Cược",
         "bet_level_shorten": "Mức Cược",
-        "bet_multiplier_x": "Hệ Số Cược 20X",
+        "bet_multiplier_x": "Hệ Số Cược 20x",
         "big_win": "Thắng Lớn",
         "coin_value": "Giá trị xu",
         "coin_value_shorten": "Giá trị xu",
@@ -281,11 +292,15 @@ export const languages = {
         "turbo_mode": "Siêu Tốc",
         "warning_trial_mode": "Chơi Thật,\\nThắng Thật",
         "win_tumble_msg": "CHÚC MỪNG!",
-        "you_win_free_spin": "Bạn đã thắng"
+        "you_win_free_spin": "Bạn đã thắng",
+        "you_have_won": "Bạn Đã Chiến Thắng",
+        "in_free_spins": "Trong {value} Free Spins",
+        "free_spins_active": "Free Spins Đang Hoạt Động",
+        "tumble_win": "Thắng Nổ Sập"
     },
-    "FruitSamurai": {
-        "game_icon_name": "Chém\nHoa Quả",
-        "game_name": "Chém Hoa Quả"
+    "PickleballLoveStory": {
+        "game_name": "Chuyện Tình Pickleball",
+        "game_icon_name": "Chuyện Tình\nPickleball"
     }
 };
 

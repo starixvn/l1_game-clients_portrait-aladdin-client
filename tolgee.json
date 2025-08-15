@@ -1,0 +1,7 @@
+{
+    "mainNamespace": "PickleballLoveStory",
+    "additionalNamespaces": [
+        "Common",
+        "cascadingslot"
+    ]
+}

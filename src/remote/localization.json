@@ -1,22 +1,30 @@
 {
     "lobbyNames": {
-        "en": "Fruit Samurai",
-        "id": "Fruit Samurai",
-        "th": "ผลไม้ซามูไร",
-        "vi": "Chém\nHoa Quả",
-        "zh_cn": "武士水果",
-        "zh_tw": "武士水果",
-        "ja": "Fruit Samurai",
-        "es": "Fruit Samurai"
+        "en": "Pickleball\nLove Story",
+        "es": null,
+        "fil_ph": "Pickleball\nLove Story",
+        "id": null,
+        "ja": null,
+        "ko": null,
+        "pt_br": "Pickleball\nLove Story",
+        "th": null,
+        "tr": null,
+        "vi": "Chuyện Tình\nPickleball",
+        "zh_cn": null,
+        "zh_tw": null
     },
     "gameNames": {
-        "en": "Fruit Samurai",
-        "id": "Fruit Samurai",
-        "th": "ผลไม้ซามูไร",
-        "vi": "Chém Hoa Quả",
-        "zh_cn": "武士水果",
-        "zh_tw": "武士水果",
-        "ja": "Fruit Samurai",
-        "es": "Fruit Samurai"
+        "en": "Pickleball Love Story",
+        "es": null,
+        "fil_ph": "Pickleball Love Story",
+        "id": null,
+        "ja": null,
+        "ko": null,
+        "pt_br": "Pickleball Love Story",
+        "th": null,
+        "tr": null,
+        "vi": "Chuyện Tình Pickleball",
+        "zh_cn": null,
+        "zh_tw": null
     }
 }

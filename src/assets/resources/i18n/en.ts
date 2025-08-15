@@ -224,7 +224,15 @@ export const languages = {
         "under_maintenance_time": "Starting from %{startTime} to %{endTime} (GMT+8)",
         "win": "Win",
         "win_loss": "Win Loss",
-        "you_reach_max_win": "You reached the max win"
+        "you_reach_max_win": "You reached the max win",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot",
+        "message_error_claim_expired": "The Bonus is expired. No longer available. (%{errorCode}) ",
+        "pf_header_server_seed_sha256_single": "Server Seed SHA256",
+        "pf_ header_merge_client_seed_single": "Merge Client Seed"
     },
     "cascadingslot": {
         "auto_spin": "Auto Spin",
@@ -284,11 +292,15 @@ export const languages = {
         "turbo_mode": "Turbo Mode",
         "warning_trial_mode": "Play Real,\\nWin Real",
         "win_tumble_msg": "CONGRATULATION!",
-        "you_win_free_spin": "You win"
+        "you_win_free_spin": "You win",
+        "you_have_won": "You Have Won",
+        "in_free_spins": "In {value} Free Spins",
+        "free_spins_active": "Free Spins Active",
+        "tumble_win": "Tumble Win"
     },
-    "FruitSamurai": {
-        "game_icon_name": "Fruit Samurai",
-        "game_name": "Fruit Samurai"
+    "PickleballLoveStory": {
+        "game_name": "Pickleball Love Story",
+        "game_icon_name": "Pickleball\nLove Story"
     }
 };
 

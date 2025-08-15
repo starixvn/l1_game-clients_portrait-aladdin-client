@@ -221,7 +221,18 @@ export const languages = {
         "under_maintenance_time": "เริ่มต้นจาก %{startTime} ถึง %{endTime} (GMT+8)",
         "win": "ชนะ",
         "win_loss": "ชนะ แพ้",
-        "you_reach_max_win": "คุณถึงยอดชนะสูงสุด"
+        "you_reach_max_win": "คุณถึงยอดชนะสูงสุด",
+        "message_invalid_payline": "Invalid Payline",
+        "message_invalid_bonus": "Invalid Bonus Game",
+        "message_invalid_jackpot": "Invalid Jackpot Game",
+        "message_opened_jackpot": "Invalid Jackpot Game",
+        "message_opened_bonus": "Invalid Bonus Game",
+        "no_data": null,
+        "all": null,
+        "message_loading": "Loading",
+        "message_error_claim_expired": "โบนัสหมดอายุ ไม่สามารถใช้งานได้อีกต่อไป (%{errorCode})",
+        "pf_header_server_seed_sha256_single": "Server Seed SHA256 ",
+        "pf_ header_merge_client_seed_single": "ผสาน Client Seed"
     },
     "cascadingslot": {
         "auto_spin": "สปินอัตโนมัติ",
@@ -281,11 +292,15 @@ export const languages = {
         "turbo_mode": "โหมด Turbo",
         "warning_trial_mode": "เล่นจริง\\nชนะจริง",
         "win_tumble_msg": "ขอแสดงความยินดี!",
-        "you_win_free_spin": "คุณชนะ"
+        "you_win_free_spin": "คุณชนะ",
+        "you_have_won": null,
+        "in_free_spins": null,
+        "free_spins_active": null,
+        "tumble_win": "ชนะ Tumble"
     },
-    "FruitSamurai": {
-        "game_icon_name": "ผลไม้ซามูไร",
-        "game_name": "ผลไม้ซามูไร"
+    "PickleballLoveStory": {
+        "game_name": null,
+        "game_icon_name": null
     }
 };
 
