@@ -17,16 +17,9 @@ export class GameResizeWindow extends Component {
         const { width, height } = this.portraitResolution;
 
         if (sys.isMobile) {
-            // For mobile devices, use screen size and account for device pixel ratio
-            const screenWidth = window.screen.width || window.innerWidth;
-            const screenHeight = window.screen.height || window.innerHeight;
-
-            // Use the smaller dimension to maintain aspect ratio
-            const ratioScale = Math.min(screenHeight / height, screenWidth / width);
-            const newWidth = ratioScale * width;
-            const newHeight = ratioScale * height;
-
-            screen.windowSize = new Size(newWidth, newHeight);
+            const gameDiv = document.getElementById("GameDiv");
+            gameDiv.style.width = "100% !important";
+            gameDiv.style.height = "100% !important";
         } else {
             // For desktop browsers, use the original logic
             const ratioScale = window.innerHeight / height;
