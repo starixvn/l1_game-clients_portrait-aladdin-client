@@ -56,7 +56,7 @@
     },
     "options": {
       "web-mobile": {
-        "orientation": "landscape",
+        "orientation": "portrait",
         "embedWebDebugger": false,
         "__version__": "1.0.1",
         "cullEngineAsmJsModule": false,
