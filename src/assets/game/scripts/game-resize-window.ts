@@ -16,12 +16,7 @@ export class GameResizeWindow extends Component {
     adjustResolution() {
         const { width, height } = this.portraitResolution;
 
-        if (sys.isMobile) {
-            const gameDiv = document.getElementById("GameDiv");
-            gameDiv.style.width = "100% !important";
-            gameDiv.style.height = "100% !important";
-        } else {
-            // For desktop browsers, use the original logic
+        if (!sys.isMobile) {
             const ratioScale = window.innerHeight / height;
             const newWidth = ratioScale * width;
 
@@ -36,14 +31,5 @@ export class GameResizeWindow extends Component {
                 this.adjustResolution();
             }, 100);
         });
-
-        // For mobile devices, also listen for orientation changes
-        if (sys.isMobile) {
-            window.addEventListener("orientationchange", () => {
-                setTimeout(() => {
-                    this.adjustResolution();
-                }, 300); // Longer delay for orientation change
-            });
-        }
     }
 }
