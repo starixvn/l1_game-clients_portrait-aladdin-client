@@ -1,0 +1,118 @@
+{
+"skeleton": { "hash": "Kt4zb5ZzKCZZp92w+heHOizqzos", "spine": "3.8.99", "images": "./images/", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "frame", "parent": "root", "y": -212 },
+	{ "name": "light", "parent": "root", "y": -148, "scaleX": 0.8225, "scaleY": 0.8225 },
+	{ "name": "bg", "parent": "root" },
+	{ "name": "ball", "parent": "bg", "y": 41 },
+	{ "name": "label", "parent": "bg", "x": -193, "y": 128 },
+	{ "name": "assesory", "parent": "bg", "x": 17, "y": -79 },
+	{ "name": "text-number", "parent": "root", "y": 47 },
+	{ "name": "text-totalwin", "parent": "root", "y": 196 },
+	{ "name": "freespins", "parent": "root", "y": -154 }
+],
+"slots": [
+	{ "name": "bg", "bone": "bg" },
+	{ "name": "ball", "bone": "ball" },
+	{ "name": "assesory", "bone": "assesory" },
+	{ "name": "light", "bone": "light" },
+	{ "name": "frame", "bone": "frame" },
+	{ "name": "label", "bone": "label" },
+	{ "name": "freespins", "bone": "freespins" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"assesory": {
+				"assesory": { "y": 0.5, "width": 564, "height": 327 }
+			},
+			"ball": {
+				"ball": { "x": 0.5, "y": 0.5, "width": 305, "height": 305 }
+			},
+			"bg": {
+				"bg": { "width": 622, "height": 622 }
+			},
+			"frame": {
+				"frame": { "x": 0.5, "y": 0.5, "width": 627, "height": 123 }
+			},
+			"freespins": {
+				"freespins": { "x": 0.5, "y": 0.5, "width": 381, "height": 381 }
+			},
+			"label": {
+				"label": { "width": 98, "height": 208 }
+			},
+			"light": {
+				"light": { "y": 28.5, "width": 644, "height": 513 }
+			}
+		}
+	}
+],
+"animations": {
+	"show": {
+		"slots": {
+			"assesory": {
+				"attachment": [
+					{ "name": "assesory" }
+				]
+			},
+			"ball": {
+				"attachment": [
+					{ "name": "ball" }
+				]
+			},
+			"bg": {
+				"attachment": [
+					{ "name": "bg" }
+				]
+			},
+			"freespins": {
+				"attachment": [
+					{ "name": "freespins" }
+				]
+			},
+			"label": {
+				"attachment": [
+					{ "name": "label" }
+				]
+			},
+			"light": {
+				"attachment": [
+					{ "name": "light" }
+				]
+			}
+		},
+		"bones": {
+			"bg": {
+				"scale": [
+					{},
+					{ "time": 0.1667, "x": 1.051, "y": 1.051 },
+					{ "time": 0.3333 }
+				]
+			},
+			"light": {
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 1.228, "y": 1.228 },
+					{ "time": 1.3333 }
+				]
+			},
+			"text-totalwin": {
+				"scale": [
+					{ "time": 0.1 },
+					{ "time": 0.2667, "x": 1.076, "y": 1.076 },
+					{ "time": 0.4333 }
+				]
+			},
+			"freespins": {
+				"scale": [
+					{ "time": 0.1333 },
+					{ "time": 0.3, "x": 1.141, "y": 1.141 },
+					{ "time": 0.4667 }
+				]
+			}
+		}
+	}
+}
+}

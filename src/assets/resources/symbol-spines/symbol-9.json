@@ -1,25 +1,26 @@
 {
-"skeleton": {
-	"hash": "TFngqzAkxfgie+YwkspQzdgPIJQ",
-	"spine": "3.8.99",
-	"x": -62,
-	"y": -62,
-	"width": 124,
-	"height": 124,
-	"images": "./images/",
-	"audio": ""
-},
+"skeleton": { "hash": "VG+Sj6SCbYdSGOyKrNOlMQYNV9U", "spine": "3.8.99", "images": "./images/", "audio": "" },
 "bones": [
 	{ "name": "root" },
-	{ "name": "symbol", "parent": "root" }
+	{ "name": "symbol", "parent": "root" },
+	{ "name": "explose-hit", "parent": "root", "scaleX": 1.3234, "scaleY": 1.3234 }
 ],
 "slots": [
-	{ "name": "symbol", "bone": "symbol", "attachment": "symbol-9" }
+	{ "name": "symbol", "bone": "symbol" },
+	{ "name": "explose-hit", "bone": "explose-hit", "blend": "additive" }
 ],
 "skins": [
 	{
 		"name": "default",
 		"attachments": {
+			"explose-hit": {
+				"explose-hit/gray-hit-00": { "width": 200, "height": 116 },
+				"explose-hit/gray-hit-01": { "width": 200, "height": 116 },
+				"explose-hit/gray-hit-02": { "width": 200, "height": 116 },
+				"explose-hit/gray-hit-03": { "width": 200, "height": 116 },
+				"explose-hit/gray-hit-04": { "width": 200, "height": 116 },
+				"explose-hit/gray-hit-05": { "width": 200, "height": 116 }
+			},
 			"symbol": {
 				"symbol-9": { "width": 124, "height": 124 }
 			}
@@ -27,7 +28,35 @@
 	}
 ],
 "animations": {
+	"highlight": {
+		"slots": {
+			"symbol": {
+				"attachment": [
+					{ "name": "symbol-9" }
+				]
+			}
+		},
+		"bones": {
+			"symbol": {
+				"translate": [
+					{},
+					{ "time": 0.1667, "y": 11.36 },
+					{ "time": 0.3333 },
+					{ "time": 0.5, "y": 5.24 },
+					{ "time": 0.6667, "curve": "stepped" },
+					{ "time": 1.5 }
+				]
+			}
+		}
+	},
 	"idle": {
+		"slots": {
+			"symbol": {
+				"attachment": [
+					{ "name": "symbol-9" }
+				]
+			}
+		},
 		"bones": {
 			"symbol": {
 				"rotate": [

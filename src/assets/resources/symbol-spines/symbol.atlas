@@ -1,104 +1,146 @@
 
-symbol.png
-size: 1532,128
+symbol.webp
+size: 326,917
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+explose-hit/gray-hit-00
+  rotate: false
+  xy: 246, 414
+  size: 73, 42
+  orig: 200, 116
+  offset: 61, 38
+  index: -1
+explose-hit/gray-hit-01
+  rotate: false
+  xy: 1, 472
+  size: 166, 97
+  orig: 200, 116
+  offset: 16, 10
+  index: -1
+explose-hit/gray-hit-02
+  rotate: false
+  xy: 1, 571
+  size: 193, 114
+  orig: 200, 116
+  offset: 4, 2
+  index: -1
+explose-hit/gray-hit-03
+  rotate: false
+  xy: 1, 687
+  size: 196, 113
+  orig: 200, 116
+  offset: 4, 3
+  index: -1
+explose-hit/gray-hit-04
+  rotate: false
+  xy: 1, 802
+  size: 197, 114
+  orig: 200, 116
+  offset: 1, 1
+  index: -1
+explose-hit/gray-hit-05
+  rotate: false
+  xy: 324, 697
+  size: 1, 1
+  orig: 200, 116
+  offset: 199, 0
+  index: -1
 symbol-0
-  rotate: true
-  xy: 495, 4
-  size: 122, 114
+  rotate: false
+  xy: 196, 458
+  size: 122, 115
   orig: 124, 124
   offset: 0, 2
   index: -1
 symbol-1
-  rotate: true
-  xy: 1445, 10
-  size: 116, 85
+  rotate: false
+  xy: 121, 243
+  size: 118, 87
   orig: 124, 124
-  offset: 5, 19
+  offset: 4, 18
   index: -1
 symbol-10
   rotate: false
-  xy: 835, 13
-  size: 105, 113
+  xy: 1, 118
+  size: 107, 115
   orig: 124, 124
-  offset: 9, 6
+  offset: 8, 5
   index: -1
 symbol-11
   rotate: false
-  xy: 726, 12
-  size: 105, 114
+  xy: 121, 125
+  size: 108, 116
   orig: 124, 124
-  offset: 9, 5
+  offset: 7, 4
   index: -1
 symbol-12
   rotate: false
-  xy: 944, 13
-  size: 105, 113
+  xy: 110, 8
+  size: 107, 115
   orig: 124, 124
-  offset: 9, 6
+  offset: 8, 5
   index: -1
 symbol-13
   rotate: false
-  xy: 1053, 13
-  size: 105, 113
+  xy: 1, 1
+  size: 107, 115
   orig: 124, 124
-  offset: 9, 6
+  offset: 8, 5
   index: -1
 symbol-2
   rotate: false
-  xy: 1162, 7
-  size: 98, 119
+  xy: 219, 2
+  size: 99, 121
   orig: 124, 124
-  offset: 11, 2
+  offset: 11, 1
   index: -1
 symbol-3
-  rotate: true
-  xy: 1264, 3
-  size: 123, 89
+  rotate: false
+  xy: 200, 826
+  size: 124, 90
   orig: 124, 124
-  offset: 0, 20
+  offset: 0, 19
   index: -1
 symbol-4
   rotate: false
-  xy: 1357, 3
+  xy: 241, 207
   size: 84, 123
   orig: 124, 124
   offset: 19, 1
   index: -1
 symbol-5
   rotate: false
-  xy: 375, 5
-  size: 116, 121
+  xy: 1, 235
+  size: 118, 122
   orig: 124, 124
-  offset: 1, 2
+  offset: 0, 2
   index: -1
 symbol-6
   rotate: false
-  xy: 254, 2
-  size: 117, 124
+  xy: 125, 332
+  size: 119, 124
   orig: 124, 124
-  offset: 2, 0
+  offset: 1, 0
   index: -1
 symbol-7
   rotate: false
-  xy: 2, 2
-  size: 122, 124
+  xy: 200, 700
+  size: 123, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
 symbol-8
   rotate: false
-  xy: 128, 4
-  size: 122, 122
+  xy: 199, 575
+  size: 123, 123
   orig: 124, 124
-  offset: 0, 2
+  offset: 0, 1
   index: -1
 symbol-9
-  rotate: true
-  xy: 613, 5
-  size: 121, 109
+  rotate: false
+  xy: 1, 359
+  size: 122, 111
   orig: 124, 124
-  offset: 0, 10
+  offset: 0, 9
   index: -1

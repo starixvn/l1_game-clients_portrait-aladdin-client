@@ -1,25 +1,26 @@
 {
-"skeleton": {
-	"hash": "dC+br1p9DSBh9g0W/luTsiePD6U",
-	"spine": "3.8.99",
-	"x": -62,
-	"y": -62,
-	"width": 124,
-	"height": 124,
-	"images": "./images/",
-	"audio": ""
-},
+"skeleton": { "hash": "JQ7qV8OFfl92KAQs8Bn71+vTZVs", "spine": "3.8.99", "images": "./images/", "audio": "" },
 "bones": [
 	{ "name": "root" },
-	{ "name": "symbol", "parent": "root" }
+	{ "name": "symbol", "parent": "root" },
+	{ "name": "explose-hit", "parent": "root", "scaleX": 1.3234, "scaleY": 1.3234 }
 ],
 "slots": [
-	{ "name": "symbol", "bone": "symbol", "attachment": "symbol-11" }
+	{ "name": "symbol", "bone": "symbol" },
+	{ "name": "explose-hit", "bone": "explose-hit", "blend": "additive" }
 ],
 "skins": [
 	{
 		"name": "default",
 		"attachments": {
+			"explose-hit": {
+				"explose-hit/gray-hit-00": { "width": 200, "height": 116 },
+				"explose-hit/gray-hit-01": { "width": 200, "height": 116 },
+				"explose-hit/gray-hit-02": { "width": 200, "height": 116 },
+				"explose-hit/gray-hit-03": { "width": 200, "height": 116 },
+				"explose-hit/gray-hit-04": { "width": 200, "height": 116 },
+				"explose-hit/gray-hit-05": { "width": 200, "height": 116 }
+			},
 			"symbol": {
 				"symbol-11": { "width": 124, "height": 124 }
 			}
@@ -27,7 +28,35 @@
 	}
 ],
 "animations": {
+	"highlight": {
+		"slots": {
+			"symbol": {
+				"attachment": [
+					{ "name": "symbol-11" }
+				]
+			}
+		},
+		"bones": {
+			"symbol": {
+				"translate": [
+					{},
+					{ "time": 0.1667, "y": 11.36 },
+					{ "time": 0.3333 },
+					{ "time": 0.5, "y": 5.24 },
+					{ "time": 0.6667, "curve": "stepped" },
+					{ "time": 1.5 }
+				]
+			}
+		}
+	},
 	"idle": {
+		"slots": {
+			"symbol": {
+				"attachment": [
+					{ "name": "symbol-11" }
+				]
+			}
+		},
 		"bones": {
 			"symbol": {
 				"rotate": [
@@ -35,6 +64,27 @@
 					{ "time": 1, "angle": 3.44, "curve": 0.25, "c3": 0.75 },
 					{ "time": 2, "angle": -0.12, "curve": 0.25, "c3": 0.75 },
 					{ "time": 3 }
+				]
+			}
+		}
+	},
+	"intro": {
+		"slots": {
+			"symbol": {
+				"attachment": [
+					{ "name": "symbol-11" }
+				]
+			}
+		},
+		"bones": {
+			"symbol": {
+				"translate": [
+					{ "time": 0.0333 },
+					{ "time": 0.1333, "y": 11.36 },
+					{ "time": 0.2333 },
+					{ "time": 0.3333, "y": 5.24 },
+					{ "time": 0.4333, "curve": "stepped" },
+					{ "time": 0.7 }
 				]
 			}
 		}
