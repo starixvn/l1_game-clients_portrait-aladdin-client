@@ -17,8 +17,8 @@ export class GameResizeWindow extends Component {
         const { width, height } = this.portraitResolution;
 
         if (!sys.isMobile) {
-            const gameDiv = document.getElementById("GameDiv");
-            gameDiv.style.position = "relative";
+            const gameContainer = document.getElementById("Cocos3dGameContainer");
+            gameContainer.style.position = "relative";
             // For desktop browsers, use the original logic
             const ratioScale = window.innerHeight / height;
             const newWidth = ratioScale * width;
