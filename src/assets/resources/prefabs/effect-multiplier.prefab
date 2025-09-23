@@ -161,12 +161,12 @@
       "a": 255
     },
     "_skeletonData": {
-      "__uuid__": "b9724758-6566-4578-be10-d29d7c2ae3ca",
+      "__uuid__": "2ad0b226-101c-4d56-9f44-2a8a001044ae",
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
     "defaultAnimation": "level0",
-    "_premultipliedAlpha": true,
+    "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 0,
     "_cacheMode": 0,
