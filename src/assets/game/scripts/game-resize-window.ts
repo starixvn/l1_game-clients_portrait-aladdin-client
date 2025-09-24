@@ -13,6 +13,10 @@ export class GameResizeWindow extends Component {
         this.setupResizeListener();
     }
 
+    protected onDestroy(): void {
+        window.removeEventListener("resize", this.resizeWindow);
+    }
+
     adjustResolution() {
         const { width, height } = this.portraitResolution;
 
@@ -27,12 +31,16 @@ export class GameResizeWindow extends Component {
         }
     }
 
+    private resizeWindow() {
+        setTimeout(() => {
+            if (this.node.isValid) {
+                this.adjustResolution();
+            }
+        }, 100);
+    }
+
     private setupResizeListener() {
         // Listen for window resize events
-        window.addEventListener("resize", () => {
-            setTimeout(() => {
-                this.adjustResolution();
-            }, 100);
-        });
+        window.addEventListener("resize", this.resizeWindow);
     }
 }
