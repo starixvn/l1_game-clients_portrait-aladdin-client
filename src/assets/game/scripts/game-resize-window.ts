@@ -27,20 +27,29 @@ export class GameResizeWindow extends Component {
             const ratioScale = window.innerHeight / height;
             const newWidth = ratioScale * width;
 
-            screen.windowSize = new Size(newWidth, window.innerHeight);
+            const dpr = screen.devicePixelRatio || 1;
+
+            screen.windowSize = new Size(Math.round(newWidth * dpr), Math.round(window.innerHeight * dpr));
         }
+    }
+
+    debounce(func: any, wait: number) {
+        let timeout: any;
+        return (...args: any[]) => {
+            clearTimeout(timeout);
+            timeout = setTimeout(() => func.apply(this, args), wait);
+        };
     }
 
     private resizeWindow() {
         setTimeout(() => {
-            if (this.node.isValid) {
-                this.adjustResolution();
-            }
+            this.adjustResolution();
         }, 100);
     }
 
     private setupResizeListener() {
+        const debouncedResizeWindow = this.debounce(this.resizeWindow, 100);
         // Listen for window resize events
-        window.addEventListener("resize", this.resizeWindow);
+        window.addEventListener("resize", debouncedResizeWindow);
     }
 }
