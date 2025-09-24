@@ -1,7 +1,7 @@
 import { _decorator, Component, screen, Size, sys } from "cc";
 const { ccclass, property } = _decorator;
 
-@ccclass("game_resize_window")
+@ccclass("game-resize-window")
 export class GameResizeWindow extends Component {
     private readonly portraitResolution = {
         width: 786,
