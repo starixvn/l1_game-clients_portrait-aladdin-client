@@ -1,8 +1,8 @@
 {
-    "bottomAreaTextColor": "#ffffff",
+    "bottomAreaTextColor": "#79BE67",
     "bottomAreaNumberColor": "#ffffff",
-    "bottomAreaButtonBorderColor": "#ffffff",
-    "bottomAreaButtonBackgroundColor": "#ffffff",
+    "bottomAreaButtonBorderColor": "#79BE67",
+    "bottomAreaButtonBackgroundColor": "#79BE67",
     "bottomAreaWinAmountColor": "#EBBC00",
     "previewOddsBorderColor": "#EBBC00",
     "previewOddsSymbolNumberColor": "#ffffff",
