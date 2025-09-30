@@ -14,7 +14,7 @@ export class GameResizeWindow extends Component {
     }
 
     protected onDestroy(): void {
-        window.removeEventListener("resize", this.resizeWindow);
+        window.removeEventListener("resize", this.debouncedResizeWindow);
     }
 
     adjustResolution() {
@@ -47,9 +47,12 @@ export class GameResizeWindow extends Component {
         }, 100);
     }
 
+    private debouncedResizeWindow() {
+        this.debounce(this.resizeWindow, 100);
+    }
+
     private setupResizeListener() {
-        const debouncedResizeWindow = this.debounce(this.resizeWindow, 100);
         // Listen for window resize events
-        window.addEventListener("resize", debouncedResizeWindow);
+        window.addEventListener("resize", this.debouncedResizeWindow);
     }
 }
