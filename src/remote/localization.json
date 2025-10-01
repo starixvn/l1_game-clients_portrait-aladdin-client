@@ -1,30 +1,22 @@
 {
     "lobbyNames": {
-        "en": "Pickleball\nLove Story",
-        "es": null,
-        "fil_ph": "Pickleball\nLove Story",
-        "id": null,
-        "ja": null,
-        "ko": null,
-        "pt_br": "Pickleball\nLove Story",
-        "th": null,
-        "tr": null,
-        "vi": "Chuyện Tình\nPickleball",
-        "zh_cn": null,
-        "zh_tw": null
+        "en": "Olympub",
+        "id": "Olympub",
+        "th": "Olympub",
+        "vi": "Quán Bar\nOlympus",
+        "zh_cn": "奥林酒馆",
+        "zh_tw": "奧林酒館",
+        "ja": "Olympub",
+        "es": "Olympub"
     },
     "gameNames": {
-        "en": "Pickleball Love Story",
-        "es": null,
-        "fil_ph": "Pickleball Love Story",
-        "id": null,
-        "ja": null,
-        "ko": null,
-        "pt_br": "Pickleball Love Story",
-        "th": null,
-        "tr": null,
-        "vi": "Chuyện Tình Pickleball",
-        "zh_cn": null,
-        "zh_tw": null
+        "en": "Olympub",
+        "id": "Olympub",
+        "th": "Olympub",
+        "vi": "Quán Bar Olympus",
+        "zh_cn": "奥林酒馆",
+        "zh_tw": "奧林酒館",
+        "ja": "Olympub",
+        "es": "Olympub"
     }
 }
