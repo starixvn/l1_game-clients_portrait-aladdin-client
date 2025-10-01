@@ -1,13 +1,474 @@
 
-mascot.png
-size: 250,555
+mascot.webp
+size: 2047,1923
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-mascotpickleball
+arealight
+  rotate: true
+  xy: 655, 1663
+  size: 183, 299
+  orig: 228, 311
+  offset: 38, 9
+  index: -1
+bantay-01
+  rotate: true
+  xy: 563, 1854
+  size: 67, 76
+  orig: 80, 87
+  offset: 0, 6
+  index: -1
+bantay-01a
   rotate: false
-  xy: 1, 1
-  size: 248, 553
-  orig: 248, 553
+  xy: 1000, 1847
+  size: 80, 74
+  orig: 80, 87
+  offset: 0, 10
+  index: -1
+bantay-02
+  rotate: false
+  xy: 480, 1856
+  size: 79, 65
+  orig: 80, 87
+  offset: 0, 17
+  index: -1
+body
+  rotate: true
+  xy: 1161, 1588
+  size: 245, 353
+  orig: 254, 353
+  offset: 9, 0
+  index: -1
+chan
+  rotate: false
+  xy: 258, 1741
+  size: 225, 111
+  orig: 254, 111
+  offset: 12, 0
+  index: -1
+dau
+  rotate: true
+  xy: 487, 1711
+  size: 135, 164
+  orig: 135, 167
+  offset: 0, 0
+  index: -1
+dio-hand
+  rotate: true
+  xy: 1201, 1842
+  size: 79, 108
+  orig: 79, 108
+  offset: 0, 0
+  index: -1
+giotbia
+  rotate: true
+  xy: 2, 1901
+  size: 20, 42
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+hades-dionysus
+  rotate: true
+  xy: 1518, 1570
+  size: 261, 263
+  orig: 265, 266
+  offset: 3, 3
+  index: -1
+hades-fire
+  rotate: true
+  xy: 253, 1892
+  size: 29, 47
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00000
+  rotate: true
+  xy: 2, 1349
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00001
+  rotate: true
+  xy: 2, 1349
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00002
+  rotate: true
+  xy: 429, 1271
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00003
+  rotate: true
+  xy: 856, 1196
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00004
+  rotate: true
+  xy: 1283, 1178
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00005
+  rotate: true
+  xy: 2, 957
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00006
+  rotate: true
+  xy: 429, 879
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00007
+  rotate: true
+  xy: 856, 804
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00008
+  rotate: true
+  xy: 1283, 786
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00009
+  rotate: true
+  xy: 2, 565
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00010
+  rotate: true
+  xy: 429, 487
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00011
+  rotate: true
+  xy: 856, 412
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00012
+  rotate: true
+  xy: 1283, 394
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00013
+  rotate: true
+  xy: 2, 173
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00014
+  rotate: true
+  xy: 429, 95
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00015
+  rotate: true
+  xy: 856, 20
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00016
+  rotate: true
+  xy: 1283, 2
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lybia
+  rotate: true
+  xy: 1084, 1844
+  size: 77, 113
+  orig: 84, 118
+  offset: 6, 2
+  index: -1
+mat-01
+  rotate: false
+  xy: 110, 1894
+  size: 67, 27
+  orig: 76, 34
+  offset: 4, 4
+  index: -1
+mat-03
+  rotate: false
+  xy: 181, 1893
+  size: 68, 28
+  orig: 76, 34
+  offset: 4, 4
+  index: -1
+mieng-01
+  rotate: false
+  xy: 304, 1892
+  size: 57, 29
+  orig: 58, 48
+  offset: 1, 12
+  index: -1
+mieng-02
+  rotate: false
+  xy: 365, 1880
+  size: 54, 41
+  orig: 58, 48
+  offset: 2, 1
+  index: -1
+mieng-03
+  rotate: false
+  xy: 48, 1898
+  size: 58, 23
+  orig: 58, 48
+  offset: 0, 16
+  index: -1
+shadow
+  rotate: false
+  xy: 643, 1850
+  size: 248, 71
+  orig: 254, 72
+  offset: 3, 0
+  index: -1
+spotlight
+  rotate: true
+  xy: 895, 1850
+  size: 71, 101
+  orig: 71, 101
+  offset: 0, 0
+  index: -1
+sunlight
+  rotate: false
+  xy: 958, 1643
+  size: 199, 197
+  orig: 210, 210
+  offset: 8, 6
+  index: -1
+tay-01
+  rotate: true
+  xy: 1313, 1838
+  size: 83, 102
+  orig: 120, 189
+  offset: 32, 47
+  index: -1
+tay-01a
+  rotate: true
+  xy: 2, 1799
+  size: 91, 108
+  orig: 120, 189
+  offset: 27, 44
+  index: -1
+tay-02
+  rotate: true
+  xy: 1789, 1833
+  size: 88, 128
+  orig: 120, 189
+  offset: 27, 22
+  index: -1
+tay-03
+  rotate: true
+  xy: 1419, 1837
+  size: 84, 139
+  orig: 120, 189
+  offset: 29, 13
+  index: -1
+tay-03a
+  rotate: true
+  xy: 1921, 1832
+  size: 89, 124
+  orig: 120, 189
+  offset: 29, 28
+  index: -1
+tayphai
+  rotate: true
+  xy: 1562, 1835
+  size: 86, 223
+  orig: 86, 223
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: true
+  xy: 114, 1784
+  size: 104, 140
+  orig: 104, 140
+  offset: 0, 0
+  index: -1
+toc
+  rotate: true
+  xy: 423, 1877
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+
+mascot2.jpg
+size: 2020,1996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightcolumn/lightingcolumn_00017
+  rotate: true
+  xy: 406, 394
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00018
+  rotate: true
+  xy: 833, 394
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00019
+  rotate: false
+  xy: 1260, 359
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00020
+  rotate: true
+  xy: 406, 2
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn/lightingcolumn_00021
+  rotate: true
+  xy: 833, 2
+  size: 388, 423
+  orig: 388, 423
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00000
+  rotate: false
+  xy: 2, 1594
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00001
+  rotate: false
+  xy: 406, 1594
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00002
+  rotate: false
+  xy: 810, 1594
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00003
+  rotate: false
+  xy: 1214, 1594
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00004
+  rotate: false
+  xy: 1618, 1594
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00005
+  rotate: false
+  xy: 2, 1190
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00006
+  rotate: false
+  xy: 406, 1190
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00007
+  rotate: false
+  xy: 810, 1190
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00008
+  rotate: false
+  xy: 1214, 1190
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00009
+  rotate: false
+  xy: 1618, 1190
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00010
+  rotate: false
+  xy: 2, 786
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00011
+  rotate: false
+  xy: 406, 786
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00012
+  rotate: false
+  xy: 810, 786
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00013
+  rotate: false
+  xy: 1214, 786
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00014
+  rotate: false
+  xy: 1618, 786
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+lightcolumn2/lightcolumn2_00015
+  rotate: false
+  xy: 2, 382
+  size: 400, 400
+  orig: 400, 400
   offset: 0, 0
   index: -1

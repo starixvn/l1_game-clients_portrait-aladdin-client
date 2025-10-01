@@ -12,9 +12,9 @@ describe("settings", () => {
     it("should have data as expected", () => {
         // Assert
         expect(settings).toStrictEqual({
-            id: 147,
-            name: "PickleballLoveStory",
-            tolgeeNamespaces: ["PickleballLoveStory", "cascadingslot"],
+            id: 139,
+            name: "Olympub",
+            tolgeeNamespaces: ["Olympub", "cascadingslot"],
             durations: {
                 wholeRound: 14,
                 lockingBet: 3,
@@ -27,7 +27,7 @@ describe("settings", () => {
             },
             isMiniGame: false,
             numberOfRoundHistory: 11,
-            observerNamespace: "PickleballLoveStory",
+            observerNamespace: "Olympub",
             validateBalanceWhenBet: true,
         });
     });
