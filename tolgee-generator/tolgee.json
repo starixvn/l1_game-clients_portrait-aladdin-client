@@ -1,0 +1,4 @@
+{
+    "mainNamespace": "Olympub",
+    "additionalNamespaces": ["Common", "cascadingslot", "FreeSpinBonus"]
+}

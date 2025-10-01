@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "generate-tolgee-data": "ts-node ./tolgee-generator/index.ts"
+    "generate-tolgee-data": "ts-node ./tolgee-generator/index.ts",
+    "new-generate-tolgee": "npx tolgee-generator ./tolgee-generator/tolgee.json"
   },
   "keywords": [],
   "author": "",
