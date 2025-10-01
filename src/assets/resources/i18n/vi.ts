@@ -366,7 +366,10 @@ export const languages = {
         "play_now_btn": "Chơi Ngay!",
         "remaining_free_spins": "Lượt Free Spin Còn Lại",
         "last_free_spin": "Lượt Free Spin Cuối",
-        "volatility": "Biến Động"
+        "volatility": "Biến Động",
+        "volatility_low": "Thấp",
+        "volatility_mediun": "Trung Bình",
+        "volatility_high": "Cao"
     },
     "PickleballLoveStory": {
         "game_name": "Chuyện Tình Pickleball",

@@ -366,7 +366,10 @@ export const languages = {
         "play_now_btn": "Main Sekarang!",
         "remaining_free_spins": "Free Spin Tersisa",
         "last_free_spin": "Free Spin Terakhir",
-        "volatility": "VOLATILITAS"
+        "volatility": "VOLATILITAS",
+        "volatility_low": "Rendah",
+        "volatility_mediun": "Sedang",
+        "volatility_high": "Tinggi"
     },
     "PickleballLoveStory": {
         "game_name": null,

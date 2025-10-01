@@ -73,7 +73,10 @@ export const languages = {
         "play_now_btn": "Jogue Agora",
         "remaining_free_spins": "Giros Grátis Restantes",
         "last_free_spin": "Último Giro Grátis",
-        "volatility": "Volatilidade"
+        "volatility": "Volatilidade",
+        "volatility_low": "Baixo",
+        "volatility_mediun": "Médio",
+        "volatility_high": "Alto"
     },
     "Common": {
         "bet_history": "Histórico de Apostas",

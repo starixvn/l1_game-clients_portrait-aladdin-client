@@ -73,7 +73,10 @@ export const languages = {
         "play_now_btn": "এখন খেলুন",
         "remaining_free_spins": "অবশিষ্ট Free Spins",
         "last_free_spin": "শেষ Free Spin",
-        "volatility": "Volatility"
+        "volatility": "Volatility",
+        "volatility_low": "নিম্ন",
+        "volatility_mediun": "মাঝারি",
+        "volatility_high": "উচ্চ"
     },
     "Common": {
         "bet_history": "বাজি ইতিহাস",

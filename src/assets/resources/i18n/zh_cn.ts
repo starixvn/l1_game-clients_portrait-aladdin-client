@@ -216,7 +216,7 @@ export const languages = {
         "total": "全部的",
         "total_stake": "总赌注",
         "total_stake_shorten": "总赌注",
-        "total_win": "总赢",
+        "total_win": "总赢得",
         "under_maintenance_suggest": "维护完成后请重新登录继续玩游戏。",
         "under_maintenance_time": "从 %{startTime} 到 %{endTime} (GMT+8)",
         "win": "赢",
@@ -358,7 +358,7 @@ export const languages = {
         "tumble_win": "连续中奖",
         "buy_free_spins": "購買 Free Spins",
         "header_total_multiplier": "总乘数",
-        "header_total_win": "总赢",
+        "header_total_win": "总赢得",
         "payout": "支付",
         "header_tumble": "消除掉落",
         "no_winning_combination": "没有获胜组合",
@@ -366,7 +366,10 @@ export const languages = {
         "play_now_btn": "立即游戏！",
         "remaining_free_spins": "剩余 Free Spin",
         "last_free_spin": "最后一次 Free Spin",
-        "volatility": "波动"
+        "volatility": "波动",
+        "volatility_low": "低",
+        "volatility_mediun": "中",
+        "volatility_high": "高"
     },
     "PickleballLoveStory": {
         "game_name": null,

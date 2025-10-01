@@ -73,7 +73,10 @@ export const languages = {
         "play_now_btn": "Main Sekarang",
         "remaining_free_spins": "Baki Free Spins",
         "last_free_spin": "Free Spin Terakhir",
-        "volatility": "Kemeruapan"
+        "volatility": "Kemeruapan",
+        "volatility_low": "Rendah",
+        "volatility_mediun": "Sederhana",
+        "volatility_high": "Tinggi"
     },
     "Common": {
         "bet_history": "Sejarah Pertaruhan",

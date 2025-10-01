@@ -366,7 +366,10 @@ export const languages = {
         "play_now_btn": "เล่นเลย!",
         "remaining_free_spins": "Free Spin คงเหลือ",
         "last_free_spin": "Free Spin สุดท้าย",
-        "volatility": "ความผันผวน"
+        "volatility": "ความผันผวน",
+        "volatility_low": "ต่ำ",
+        "volatility_mediun": "ปานกลาง",
+        "volatility_high": "สูง"
     },
     "PickleballLoveStory": {
         "game_name": null,
@@ -446,7 +449,7 @@ export const languages = {
         "TO_requirement_state4_message": "โบนัสเป็นของคุณ",
         "TO_requirement_turnover": "เทิร์นโอเวอร์",
         "total_bet": "ยอดเดิมพันรวม",
-        "total_win": "ยอดชนะรวม",
+        "total_win": "ชนะทั้งหมด",
         "Unexpected_gift_code_error_message": "เกิดข้อผิดพลาดที่ไม่คาดคิด โปรดลองอีกครั้งในภายหลัง",
         "Close": "ปิด"
     }

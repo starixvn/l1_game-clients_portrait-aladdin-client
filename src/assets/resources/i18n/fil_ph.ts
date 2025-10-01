@@ -73,7 +73,10 @@ export const languages = {
         "play_now_btn": "Maglaro Ngayon",
         "remaining_free_spins": "Natitirang mga Free Spins",
         "last_free_spin": "Huling Free Spin",
-        "volatility": "Volatility"
+        "volatility": "Volatility",
+        "volatility_low": "Mababa",
+        "volatility_mediun": "Katamtaman",
+        "volatility_high": "Mataas"
     },
     "Common": {
         "bet_history": "Bet History",

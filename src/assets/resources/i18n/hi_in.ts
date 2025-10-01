@@ -73,7 +73,10 @@ export const languages = {
         "play_now_btn": "अभी खेलें",
         "remaining_free_spins": "बचे हुए Free Spins",
         "last_free_spin": "अंतिम Free Spin",
-        "volatility": "अस्थिरता"
+        "volatility": "अस्थिरता",
+        "volatility_low": "निम्न",
+        "volatility_mediun": "मध्यम",
+        "volatility_high": "उच्च"
     },
     "Common": {
         "bet_history": "बेट इतिहास",

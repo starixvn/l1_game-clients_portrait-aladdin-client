@@ -366,7 +366,10 @@ export const languages = {
         "play_now_btn": "Play Now!",
         "remaining_free_spins": "Remaining Free Spins",
         "last_free_spin": "Last Free Spin",
-        "volatility": "Volatility"
+        "volatility": "Volatility",
+        "volatility_low": "Low",
+        "volatility_mediun": "Medium",
+        "volatility_high": "High"
     },
     "PickleballLoveStory": {
         "game_name": "Pickleball Love Story",

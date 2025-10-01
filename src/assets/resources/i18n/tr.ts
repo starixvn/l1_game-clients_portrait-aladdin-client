@@ -73,7 +73,10 @@ export const languages = {
         "play_now_btn": "Şimdi Oyna",
         "remaining_free_spins": "Kalan Free Spins",
         "last_free_spin": "Son Free Spin",
-        "volatility": "Volatilite"
+        "volatility": "Volatilite",
+        "volatility_low": "Düşük",
+        "volatility_mediun": "Orta",
+        "volatility_high": "Yüksek"
     },
     "Common": {
         "bet_history": "Bahis Geçmişi",

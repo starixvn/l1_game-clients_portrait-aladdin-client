@@ -366,7 +366,10 @@ export const languages = {
         "play_now_btn": "今すぐプレイ！",
         "remaining_free_spins": "残り Free Spin",
         "last_free_spin": "最後の Free Spin",
-        "volatility": "ボラティリティ"
+        "volatility": "ボラティリティ",
+        "volatility_low": "低",
+        "volatility_mediun": "中",
+        "volatility_high": "高"
     },
     "PickleballLoveStory": {
         "game_name": null,

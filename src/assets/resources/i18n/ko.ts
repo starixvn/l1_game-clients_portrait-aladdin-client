@@ -73,7 +73,10 @@ export const languages = {
         "play_now_btn": "지금 플레이",
         "remaining_free_spins": "남은 Free Spins",
         "last_free_spin": "마지막 Free Spin",
-        "volatility": "변동성"
+        "volatility": "변동성",
+        "volatility_low": "낮음",
+        "volatility_mediun": "중간",
+        "volatility_high": "높음"
     },
     "Common": {
         "bet_history": "베팅 내역",
