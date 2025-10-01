@@ -14170,7 +14170,9 @@
     "propertyPath": [
       "totalMultiplierView"
     ],
-    "target": null,
+    "target": {
+      "__id__": 157
+    },
     "targetInfo": {
       "__id__": 480
     }
