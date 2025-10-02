@@ -1778,7 +1778,7 @@
       "__id__": 54
     },
     "spacing": 0,
-    "itemSize": 124,
+    "itemSize": 128,
     "_id": "16xsz/78hCy7mEogG7Lx6i"
   },
   {
@@ -1936,7 +1936,7 @@
       "__id__": 54
     },
     "spacing": 0,
-    "itemSize": 124,
+    "itemSize": 128,
     "_id": "c2F6w0hLlO5aDg2CDhA7X0"
   },
   {
@@ -2027,7 +2027,7 @@
       "__id__": 54
     },
     "spacing": 0,
-    "itemSize": 124,
+    "itemSize": 128,
     "_id": "d5qe5tusFJLZhjAghobUhD"
   },
   {
@@ -2118,7 +2118,7 @@
       "__id__": 54
     },
     "spacing": 0,
-    "itemSize": 124,
+    "itemSize": 128,
     "_id": "62+WLAdTdF1aMsnA1FMEja"
   },
   {
@@ -2209,7 +2209,7 @@
       "__id__": 54
     },
     "spacing": 0,
-    "itemSize": 124,
+    "itemSize": 128,
     "_id": "14gGRWVIFLCLFrLmke8jAq"
   },
   {
@@ -2300,7 +2300,7 @@
       "__id__": 54
     },
     "spacing": 0,
-    "itemSize": 124,
+    "itemSize": 128,
     "_id": "3eOu/2HUpHH4pP87iswsRY"
   },
   {
@@ -9863,7 +9863,7 @@
     ],
     "value": {
       "__type__": "cc.Size",
-      "width": 431.0798034667969,
+      "width": 439.3598937988281,
       "height": 60.480000000000004
     }
   },
