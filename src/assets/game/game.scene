@@ -2529,11 +2529,11 @@
       "__id__": 79
     },
     "prfPreviewSymbolLeft": {
-      "__uuid__": "97848450-36a9-447e-a684-74ea74f25bab",
+      "__uuid__": "f2df499c-bda5-48ef-9eb7-adb5d2748990",
       "__expectedType__": "cc.Prefab"
     },
     "prfPreviewSymbolRight": {
-      "__uuid__": "1d83cf27-ee4c-4e9c-b5a5-88ec443246b7",
+      "__uuid__": "33f00e35-a12c-4c24-9f6d-e4802279ea94",
       "__expectedType__": "cc.Prefab"
     },
     "_id": "cct9UFpMxB8pzffvUuQKhf"
