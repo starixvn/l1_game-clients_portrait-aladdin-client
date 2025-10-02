@@ -286,7 +286,12 @@ export const languages = {
         "win": "Menang",
         "win_loss": "Menang Kalah",
         "wins": "MENANG",
-        "you_reach_max_win": "Anda mencapai Maksimal Menang"
+        "you_reach_max_win": "Anda mencapai Maksimal Menang",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot"
     },
     "cascadingslot": {
         "auto_spin": "Auto Putar",

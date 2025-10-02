@@ -76,7 +76,9 @@ export const languages = {
         "volatility": "अस्थिरता",
         "volatility_low": "निम्न",
         "volatility_mediun": "मध्यम",
-        "volatility_high": "उच्च"
+        "volatility_high": "उच्च",
+        "balance": "बैलेंस",
+        "bet": "बेट"
     },
     "Common": {
         "bet_history": "बेट इतिहास",

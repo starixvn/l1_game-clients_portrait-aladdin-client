@@ -76,7 +76,9 @@ export const languages = {
         "volatility": "Volatility",
         "volatility_low": "Mababa",
         "volatility_mediun": "Katamtaman",
-        "volatility_high": "Mataas"
+        "volatility_high": "Mataas",
+        "balance": "BALANCE",
+        "bet": "Taya"
     },
     "Common": {
         "bet_history": "Bet History",

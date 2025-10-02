@@ -286,7 +286,12 @@ export const languages = {
         "win": "勝利",
         "win_loss": "損益",
         "wins": "配当",
-        "you_reach_max_win": "最大勝利額に達しました"
+        "you_reach_max_win": "最大勝利額に達しました",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot"
     },
     "cascadingslot": {
         "auto_spin": "オートスピン",

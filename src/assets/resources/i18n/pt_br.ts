@@ -76,7 +76,9 @@ export const languages = {
         "volatility": "Volatilidade",
         "volatility_low": "Baixo",
         "volatility_mediun": "Médio",
-        "volatility_high": "Alto"
+        "volatility_high": "Alto",
+        "balance": "SALDO",
+        "bet": "Aposta"
     },
     "Common": {
         "bet_history": "Histórico de Apostas",

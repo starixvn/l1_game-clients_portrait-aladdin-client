@@ -76,7 +76,9 @@ export const languages = {
         "volatility": "Kemeruapan",
         "volatility_low": "Rendah",
         "volatility_mediun": "Sederhana",
-        "volatility_high": "Tinggi"
+        "volatility_high": "Tinggi",
+        "balance": "BALANCE",
+        "bet": "Taruhan"
     },
     "Common": {
         "bet_history": "Sejarah Pertaruhan",

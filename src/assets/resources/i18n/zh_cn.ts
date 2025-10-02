@@ -286,7 +286,12 @@ export const languages = {
         "win": "赢",
         "win_loss": "赢 输",
         "wins": "赢",
-        "you_reach_max_win": "您达到了最大胜利"
+        "you_reach_max_win": "您达到了最大胜利",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot"
     },
     "cascadingslot": {
         "auto_spin": "自动旋转",

@@ -286,7 +286,12 @@ export const languages = {
         "win": "Ganar",
         "win_loss": "Ganancia/Pérdida",
         "wins": "Ganancias",
-        "you_reach_max_win": "Has alcanzado la ganancia máxima."
+        "you_reach_max_win": "Has alcanzado la ganancia máxima.",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot"
     },
     "cascadingslot": {
         "auto_spin": "Giro Automático",

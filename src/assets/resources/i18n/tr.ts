@@ -76,7 +76,9 @@ export const languages = {
         "volatility": "Volatilite",
         "volatility_low": "Düşük",
         "volatility_mediun": "Orta",
-        "volatility_high": "Yüksek"
+        "volatility_high": "Yüksek",
+        "balance": "BAKİYE",
+        "bet": "Bahis"
     },
     "Common": {
         "bet_history": "Bahis Geçmişi",

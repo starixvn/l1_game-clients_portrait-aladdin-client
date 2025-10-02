@@ -76,7 +76,9 @@ export const languages = {
         "volatility": "변동성",
         "volatility_low": "낮음",
         "volatility_mediun": "중간",
-        "volatility_high": "높음"
+        "volatility_high": "높음",
+        "balance": "잔액",
+        "bet": "베팅"
     },
     "Common": {
         "bet_history": "베팅 내역",

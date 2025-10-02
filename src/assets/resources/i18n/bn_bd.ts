@@ -76,7 +76,9 @@ export const languages = {
         "volatility": "Volatility",
         "volatility_low": "নিম্ন",
         "volatility_mediun": "মাঝারি",
-        "volatility_high": "উচ্চ"
+        "volatility_high": "উচ্চ",
+        "balance": "ব্যালেন্স",
+        "bet": "বেট"
     },
     "Common": {
         "bet_history": "বাজি ইতিহাস",
