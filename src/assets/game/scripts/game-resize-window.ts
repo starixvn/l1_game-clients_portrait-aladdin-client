@@ -1,16 +1,14 @@
-import { _decorator, Component, screen, Size, sys } from "cc";
+import { _decorator, Component, screen, Size, sys, view } from "cc";
 const { ccclass, property } = _decorator;
 
 @ccclass("game-resize-window")
 export class GameResizeWindow extends Component {
-    private readonly portraitResolution = {
-        width: 786,
-        height: 1398,
-    };
+    private designResolutionSize: Size;
 
     private timeout: any;
 
     protected onLoad(): void {
+        this.designResolutionSize = view.getDesignResolutionSize();
         this.adjustResolution();
         window.addEventListener("resize", this.debouncedResizeWindow);
     }
@@ -20,12 +18,12 @@ export class GameResizeWindow extends Component {
     }
 
     adjustResolution() {
-        const { width, height } = this.portraitResolution;
+        const { width, height } = this.designResolutionSize;
 
         if (!sys.isMobile) {
             const gameContainer = document.getElementById("Cocos3dGameContainer");
             gameContainer.style.position = "relative";
-            // For desktop browsers, use the original logic
+            // For desktop browsers, use FIT_HEIGHT
             const ratioScale = window.innerHeight / height;
             const newWidth = ratioScale * width;
 
