@@ -371,7 +371,10 @@ export const languages = {
         "warning_trial_mode": "Main Nyata,\\nMenang Nyata",
         "win_tumble_msg": "SELAMAT!",
         "you_have_won": "Anda Telah Menang",
-        "you_win_free_spin": "Anda menang"
+        "you_win_free_spin": "Anda menang",
+        "msg_random_multipliers": "Pengganda Acak Hingga 250x",
+        "mgs_free_spins": "Pengganda Meningkat Dalam Free Spin",
+        "btn_buy_free_spins": "Beli\nFree Spins"
     },
     "Olympub": {
         "game_icon_name": "Olympub",

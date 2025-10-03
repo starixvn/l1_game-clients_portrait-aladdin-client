@@ -371,7 +371,10 @@ export const languages = {
         "warning_trial_mode": "真玩，\\n赢真钱",
         "win_tumble_msg": "恭喜！",
         "you_have_won": "你赢了",
-        "you_win_free_spin": "您赢得"
+        "you_win_free_spin": "您赢得",
+        "msg_random_multipliers": "随机倍数最高可达250x",
+        "mgs_free_spins": "Free Spin中的递增倍数",
+        "btn_buy_free_spins": "購買\nFree Spins"
     },
     "Olympub": {
         "game_icon_name": "奥林酒馆",

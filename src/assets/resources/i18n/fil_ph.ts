@@ -78,7 +78,10 @@ export const languages = {
         "volatility_mediun": "Katamtaman",
         "volatility_high": "Mataas",
         "balance": "BALANCE",
-        "bet": "Taya"
+        "bet": "Taya",
+        "msg_random_multipliers": "Mga Random na Multiplier Hanggang 250x",
+        "mgs_free_spins": "Pataas na Multiplier Sa {Free Spins}",
+        "btn_buy_free_spins": "Buy\nFree Spins"
     },
     "Common": {
         "bet_history": "Bet History",

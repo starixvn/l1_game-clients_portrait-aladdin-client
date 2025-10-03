@@ -78,7 +78,10 @@ export const languages = {
         "volatility_mediun": "Sederhana",
         "volatility_high": "Tinggi",
         "balance": "BALANCE",
-        "bet": "Taruhan"
+        "bet": "Taruhan",
+        "msg_random_multipliers": "Pengganda Rawak Sehingga 250x",
+        "mgs_free_spins": "Peningkatan Pengganda Dalam {Free Spins}",
+        "btn_buy_free_spins": "Beli\nFree Spins"
     },
     "Common": {
         "bet_history": "Sejarah Pertaruhan",

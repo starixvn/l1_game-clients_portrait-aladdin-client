@@ -78,7 +78,10 @@ export const languages = {
         "volatility_mediun": "মাঝারি",
         "volatility_high": "উচ্চ",
         "balance": "ব্যালেন্স",
-        "bet": "বেট"
+        "bet": "বেট",
+        "msg_random_multipliers": "250x পর্যন্ত র্যান্ডম মাল্টিপ্লায়ার",
+        "mgs_free_spins": "{Free Spins} এ ক্রমবর্ধমান মাল্টিপ্লায়ার",
+        "btn_buy_free_spins": "Buy Free Spins"
     },
     "Common": {
         "bet_history": "বাজি ইতিহাস",

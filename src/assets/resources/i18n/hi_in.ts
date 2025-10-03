@@ -78,7 +78,10 @@ export const languages = {
         "volatility_mediun": "मध्यम",
         "volatility_high": "उच्च",
         "balance": "बैलेंस",
-        "bet": "बेट"
+        "bet": "बेट",
+        "msg_random_multipliers": "250x तक यादृच्छिक गुणक",
+        "mgs_free_spins": "{Free Spins} में बढ़ता हुआ गुणक",
+        "btn_buy_free_spins": "Free Spins\nखरीदें"
     },
     "Common": {
         "bet_history": "बेट इतिहास",

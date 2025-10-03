@@ -78,7 +78,10 @@ export const languages = {
         "volatility_mediun": "Orta",
         "volatility_high": "Yüksek",
         "balance": "BAKİYE",
-        "bet": "Bahis"
+        "bet": "Bahis",
+        "msg_random_multipliers": "250x'e Kadar Rastgele Çarpanlar",
+        "mgs_free_spins": "{Free Spins}'te Artan Çarpan",
+        "btn_buy_free_spins": "Free Spins\nSatın Al"
     },
     "Common": {
         "bet_history": "Bahis Geçmişi",

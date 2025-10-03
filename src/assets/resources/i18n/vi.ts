@@ -371,7 +371,10 @@ export const languages = {
         "warning_trial_mode": "Chơi Thật,\\nThắng Thật",
         "win_tumble_msg": "CHÚC MỪNG!",
         "you_have_won": "Bạn Đã Chiến Thắng",
-        "you_win_free_spin": "Bạn đã thắng"
+        "you_win_free_spin": "Bạn đã thắng",
+        "msg_random_multipliers": "Hệ Số Nhân Ngẫu Nhiên Lên Đến 250x",
+        "mgs_free_spins": "Hệ Số Nhân Tăng Dần Trong Free Spin",
+        "btn_buy_free_spins": "Mua\nFree Spins"
     },
     "Olympub": {
         "game_icon_name": "Quán Bar\nOlympus",

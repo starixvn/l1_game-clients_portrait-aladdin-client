@@ -78,7 +78,10 @@ export const languages = {
         "volatility_mediun": "Médio",
         "volatility_high": "Alto",
         "balance": "SALDO",
-        "bet": "Aposta"
+        "bet": "Aposta",
+        "msg_random_multipliers": "Multiplicadores Aleatórios de até 250x",
+        "mgs_free_spins": "Multiplicador Crescente em {Free Spins}",
+        "btn_buy_free_spins": "Comprar\nFree Spins"
     },
     "Common": {
         "bet_history": "Histórico de Apostas",

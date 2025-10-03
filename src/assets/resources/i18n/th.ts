@@ -371,7 +371,10 @@ export const languages = {
         "warning_trial_mode": "เล่นจริง\\nชนะจริง",
         "win_tumble_msg": "ขอแสดงความยินดี!",
         "you_have_won": "คุณชนะแล้ว!",
-        "you_win_free_spin": "คุณชนะ"
+        "you_win_free_spin": "คุณชนะ",
+        "msg_random_multipliers": "ตัวคูณสุ่มสูงสุด 250x",
+        "mgs_free_spins": "ตัวคูณเพิ่มขึ้นใน Free Spin",
+        "btn_buy_free_spins": "ซื้อ\nFree Spins"
     },
     "Olympub": {
         "game_icon_name": "Olympub",
