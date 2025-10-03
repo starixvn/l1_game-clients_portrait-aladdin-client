@@ -1238,7 +1238,7 @@
     "value": {
       "__type__": "cc.Vec3",
       "x": -176.239,
-      "y": 471.75,
+      "y": 433.947,
       "z": 0
     }
   },
@@ -7325,7 +7325,7 @@
     },
     "_enabled": true,
     "__prefab": null,
-    "_opacity": 0,
+    "_opacity": 255,
     "_id": "21RuAv8BZPAq42BeJnns7x"
   },
   {
