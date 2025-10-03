@@ -183,7 +183,10 @@
       "__expectedType__": "cc.TTFFont"
     },
     "_cacheMode": 0,
-    "_imageAtlas": null,
+    "_imageAtlas": {
+      "__uuid__": "cab245b3-fac5-4aa6-bb02-f370c663806f",
+      "__expectedType__": "cc.SpriteAtlas"
+    },
     "_handleTouchEvent": true,
     "_id": ""
   },
@@ -284,6 +287,10 @@
     },
     "msg": {
       "__id__": 5
+    },
+    "mainAtlas": {
+      "__uuid__": "cab245b3-fac5-4aa6-bb02-f370c663806f",
+      "__expectedType__": "cc.SpriteAtlas"
     },
     "_id": ""
   },
