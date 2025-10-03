@@ -193,7 +193,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 188.1319122314453,
+      "width": 159.20791625976562,
       "height": 60.480000000000004
     },
     "_anchorPoint": {
@@ -229,7 +229,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "TUMBLE WIN",
+    "_string": "TOTAL WIN",
     "_horizontalAlign": 0,
     "_verticalAlign": 1,
     "_actualFontSize": 28,
@@ -290,7 +290,7 @@
     "__prefab": {
       "__id__": 9
     },
-    "key": "cascadingslot.tumble_win",
+    "key": "cascadingslot.header_total_win",
     "format": 1,
     "prefix": "",
     "suffix": "",
@@ -360,7 +360,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 48.065956115722656,
+      "x": 33.60395812988281,
       "y": 0,
       "z": 0
     },
@@ -1108,7 +1108,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 296.1319122314453,
+      "width": 267.2079162597656,
       "height": 100
     },
     "_anchorPoint": {
