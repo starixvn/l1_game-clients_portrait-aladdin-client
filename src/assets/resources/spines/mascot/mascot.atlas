@@ -1,474 +1,447 @@
 
 mascot.webp
-size: 2047,1923
+size: 2778,2442
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 arealight
-  rotate: true
-  xy: 655, 1663
-  size: 183, 299
+  rotate: false
+  xy: 1, 12
+  size: 189, 304
   orig: 228, 311
-  offset: 38, 9
+  offset: 34, 5
   index: -1
 bantay-01
-  rotate: true
-  xy: 563, 1854
+  rotate: false
+  xy: 1856, 309
   size: 67, 76
   orig: 80, 87
   offset: 0, 6
   index: -1
 bantay-01a
   rotate: false
-  xy: 1000, 1847
-  size: 80, 74
+  xy: 1506, 144
+  size: 80, 76
   orig: 80, 87
-  offset: 0, 10
+  offset: 0, 9
   index: -1
 bantay-02
   rotate: false
-  xy: 480, 1856
+  xy: 882, 251
   size: 79, 65
   orig: 80, 87
   offset: 0, 17
   index: -1
 body
-  rotate: true
-  xy: 1161, 1588
+  rotate: false
+  xy: 1171, 9
   size: 245, 353
   orig: 254, 353
   offset: 9, 0
   index: -1
 chan
   rotate: false
-  xy: 258, 1741
+  xy: 403, 205
   size: 225, 111
   orig: 254, 111
   offset: 12, 0
   index: -1
 dau
-  rotate: true
-  xy: 487, 1711
+  rotate: false
+  xy: 403, 39
   size: 135, 164
   orig: 135, 167
   offset: 0, 0
   index: -1
-dio-hand
-  rotate: true
-  xy: 1201, 1842
-  size: 79, 108
-  orig: 79, 108
-  offset: 0, 0
-  index: -1
 giotbia
-  rotate: true
-  xy: 2, 1901
+  rotate: false
+  xy: 2743, 2399
   size: 20, 42
   orig: 20, 43
   offset: 0, 0
   index: -1
-hades-dionysus
-  rotate: true
-  xy: 1518, 1570
-  size: 261, 263
-  orig: 265, 266
-  offset: 3, 3
-  index: -1
-hades-fire
-  rotate: true
-  xy: 253, 1892
-  size: 29, 47
-  orig: 29, 50
-  offset: 0, 0
-  index: -1
 lightcolumn/lightingcolumn_00000
-  rotate: true
-  xy: 2, 1349
+  rotate: false
+  xy: 1, 2018
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00001
-  rotate: true
-  xy: 2, 1349
+  rotate: false
+  xy: 1, 2018
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00002
-  rotate: true
-  xy: 429, 1271
+  rotate: false
+  xy: 1, 1593
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00003
-  rotate: true
-  xy: 856, 1196
+  rotate: false
+  xy: 391, 2018
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00004
-  rotate: true
-  xy: 1283, 1178
+  rotate: false
+  xy: 1, 1168
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00005
-  rotate: true
-  xy: 2, 957
+  rotate: false
+  xy: 391, 1593
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00006
-  rotate: true
-  xy: 429, 879
+  rotate: false
+  xy: 781, 2018
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00007
-  rotate: true
-  xy: 856, 804
+  rotate: false
+  xy: 1, 743
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00008
-  rotate: true
-  xy: 1283, 786
+  rotate: false
+  xy: 391, 1168
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00009
-  rotate: true
-  xy: 2, 565
+  rotate: false
+  xy: 781, 1593
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00010
-  rotate: true
-  xy: 429, 487
+  rotate: false
+  xy: 1171, 2018
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00011
-  rotate: true
-  xy: 856, 412
+  rotate: false
+  xy: 1, 318
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00012
-  rotate: true
-  xy: 1283, 394
+  rotate: false
+  xy: 391, 743
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00013
-  rotate: true
-  xy: 2, 173
+  rotate: false
+  xy: 781, 1168
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00014
-  rotate: true
-  xy: 429, 95
+  rotate: false
+  xy: 1171, 1593
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00015
-  rotate: true
-  xy: 856, 20
+  rotate: false
+  xy: 1561, 2018
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00016
-  rotate: true
-  xy: 1283, 2
+  rotate: false
+  xy: 391, 318
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
-lybia
-  rotate: true
-  xy: 1084, 1844
-  size: 77, 113
-  orig: 84, 118
-  offset: 6, 2
-  index: -1
-mat-01
-  rotate: false
-  xy: 110, 1894
-  size: 67, 27
-  orig: 76, 34
-  offset: 4, 4
-  index: -1
-mat-03
-  rotate: false
-  xy: 181, 1893
-  size: 68, 28
-  orig: 76, 34
-  offset: 4, 4
-  index: -1
-mieng-01
-  rotate: false
-  xy: 304, 1892
-  size: 57, 29
-  orig: 58, 48
-  offset: 1, 12
-  index: -1
-mieng-02
-  rotate: false
-  xy: 365, 1880
-  size: 54, 41
-  orig: 58, 48
-  offset: 2, 1
-  index: -1
-mieng-03
-  rotate: false
-  xy: 48, 1898
-  size: 58, 23
-  orig: 58, 48
-  offset: 0, 16
-  index: -1
-shadow
-  rotate: false
-  xy: 643, 1850
-  size: 248, 71
-  orig: 254, 72
-  offset: 3, 0
-  index: -1
-spotlight
-  rotate: true
-  xy: 895, 1850
-  size: 71, 101
-  orig: 71, 101
-  offset: 0, 0
-  index: -1
-sunlight
-  rotate: false
-  xy: 958, 1643
-  size: 199, 197
-  orig: 210, 210
-  offset: 8, 6
-  index: -1
-tay-01
-  rotate: true
-  xy: 1313, 1838
-  size: 83, 102
-  orig: 120, 189
-  offset: 32, 47
-  index: -1
-tay-01a
-  rotate: true
-  xy: 2, 1799
-  size: 91, 108
-  orig: 120, 189
-  offset: 27, 44
-  index: -1
-tay-02
-  rotate: true
-  xy: 1789, 1833
-  size: 88, 128
-  orig: 120, 189
-  offset: 27, 22
-  index: -1
-tay-03
-  rotate: true
-  xy: 1419, 1837
-  size: 84, 139
-  orig: 120, 189
-  offset: 29, 13
-  index: -1
-tay-03a
-  rotate: true
-  xy: 1921, 1832
-  size: 89, 124
-  orig: 120, 189
-  offset: 29, 28
-  index: -1
-tayphai
-  rotate: true
-  xy: 1562, 1835
-  size: 86, 223
-  orig: 86, 223
-  offset: 0, 0
-  index: -1
-taytrai
-  rotate: true
-  xy: 114, 1784
-  size: 104, 140
-  orig: 104, 140
-  offset: 0, 0
-  index: -1
-toc
-  rotate: true
-  xy: 423, 1877
-  size: 44, 53
-  orig: 44, 53
-  offset: 0, 0
-  index: -1
-
-mascot2.jpg
-size: 2020,1996
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
 lightcolumn/lightingcolumn_00017
-  rotate: true
-  xy: 406, 394
+  rotate: false
+  xy: 781, 743
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00018
-  rotate: true
-  xy: 833, 394
+  rotate: false
+  xy: 1171, 1168
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00019
   rotate: false
-  xy: 1260, 359
+  xy: 1561, 1593
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00020
-  rotate: true
-  xy: 406, 2
+  rotate: false
+  xy: 1951, 2018
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn/lightingcolumn_00021
-  rotate: true
-  xy: 833, 2
+  rotate: false
+  xy: 781, 318
   size: 388, 423
   orig: 388, 423
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00000
   rotate: false
-  xy: 2, 1594
+  xy: 2341, 2041
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00001
   rotate: false
-  xy: 406, 1594
+  xy: 1171, 766
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00002
   rotate: false
-  xy: 810, 1594
+  xy: 1171, 364
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00003
   rotate: false
-  xy: 1214, 1594
+  xy: 1951, 1616
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00004
   rotate: false
-  xy: 1618, 1594
+  xy: 1561, 1191
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00005
   rotate: false
-  xy: 2, 1190
+  xy: 2353, 1639
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00006
   rotate: false
-  xy: 406, 1190
+  xy: 1573, 789
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00007
   rotate: false
-  xy: 810, 1190
+  xy: 1573, 387
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00008
   rotate: false
-  xy: 1214, 1190
+  xy: 1963, 1214
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00009
   rotate: false
-  xy: 1618, 1190
+  xy: 2365, 1237
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00010
   rotate: false
-  xy: 2, 786
+  xy: 1975, 812
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00011
   rotate: false
-  xy: 406, 786
+  xy: 2377, 835
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00012
   rotate: false
-  xy: 810, 786
+  xy: 2377, 433
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00013
   rotate: false
-  xy: 1214, 786
+  xy: 1975, 410
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00014
   rotate: false
-  xy: 1618, 786
+  xy: 2377, 31
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 lightcolumn2/lightcolumn2_00015
   rotate: false
-  xy: 2, 382
+  xy: 1975, 8
   size: 400, 400
   orig: 400, 400
+  offset: 0, 0
+  index: -1
+lybia
+  rotate: false
+  xy: 1777, 272
+  size: 77, 113
+  orig: 84, 118
+  offset: 6, 2
+  index: -1
+mat-01
+  rotate: false
+  xy: 630, 215
+  size: 67, 27
+  orig: 76, 34
+  offset: 4, 4
+  index: -1
+mat-03
+  rotate: false
+  xy: 2377, 1
+  size: 68, 28
+  orig: 76, 34
+  offset: 4, 4
+  index: -1
+mieng-01
+  rotate: false
+  xy: 1593, 230
+  size: 57, 29
+  orig: 58, 48
+  offset: 1, 12
+  index: -1
+mieng-02
+  rotate: false
+  xy: 963, 275
+  size: 54, 41
+  orig: 58, 48
+  offset: 2, 1
+  index: -1
+mieng-03
+  rotate: false
+  xy: 2447, 6
+  size: 58, 23
+  orig: 58, 48
+  offset: 0, 16
+  index: -1
+shadow
+  rotate: false
+  xy: 630, 244
+  size: 250, 72
+  orig: 254, 72
+  offset: 2, 0
+  index: -1
+spotlight
+  rotate: false
+  xy: 277, 3
+  size: 71, 101
+  orig: 71, 101
+  offset: 0, 0
+  index: -1
+sunlight
+  rotate: false
+  xy: 192, 106
+  size: 209, 210
+  orig: 210, 210
+  offset: 1, 0
+  index: -1
+tay-01
+  rotate: false
+  xy: 192, 1
+  size: 83, 103
+  orig: 120, 189
+  offset: 32, 46
+  index: -1
+tay-01a
+  rotate: false
+  xy: 1684, 277
+  size: 91, 108
+  orig: 120, 189
+  offset: 27, 44
+  index: -1
+tay-02
+  rotate: false
+  xy: 1418, 8
+  size: 89, 129
+  orig: 120, 189
+  offset: 27, 22
+  index: -1
+tay-03
+  rotate: false
+  xy: 1506, 222
+  size: 85, 140
+  orig: 120, 189
+  offset: 28, 12
+  index: -1
+tay-03a
+  rotate: false
+  xy: 1593, 261
+  size: 89, 124
+  orig: 120, 189
+  offset: 29, 28
+  index: -1
+tayphai
+  rotate: false
+  xy: 1418, 139
+  size: 86, 223
+  orig: 86, 223
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: false
+  xy: 540, 63
+  size: 104, 140
+  orig: 104, 140
+  offset: 0, 0
+  index: -1
+toc
+  rotate: false
+  xy: 350, 51
+  size: 44, 53
+  orig: 44, 53
   offset: 0, 0
   index: -1
