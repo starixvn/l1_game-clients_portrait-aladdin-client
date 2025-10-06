@@ -133,12 +133,12 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 0,
+      "width": 130.06,
       "height": 68
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
-      "x": 0.5,
+      "x": 1,
       "y": 0.5
     },
     "_id": ""
@@ -169,7 +169,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "",
+    "_string": "x12",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 60,
@@ -269,7 +269,7 @@
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
-      "x": 0.5,
+      "x": 1,
       "y": 0.5
     },
     "_id": ""
@@ -290,7 +290,7 @@
     "__prefab": {
       "__id__": 13
     },
-    "_opacity": 0,
+    "_opacity": 255,
     "_id": ""
   },
   {

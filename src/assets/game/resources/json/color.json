@@ -1,7 +1,7 @@
 {
-    "bottomAreaTextColor": "#FFAA0C",
+    "bottomAreaTextColor": "#FFAA0C", // portrait
     "bottomAreaNumberColor": "#ffffff",
-    "bottomAreaButtonBorderColor": "#FFAA0C",
+    "bottomAreaButtonBorderColor": "#FFAA0C", // portrait
     "bottomAreaButtonBackgroundColor": "#FFAA0C",
     "bottomAreaWinAmountColor": "#FFFC00",
     "previewOddsBorderColor": "#EBBC00",

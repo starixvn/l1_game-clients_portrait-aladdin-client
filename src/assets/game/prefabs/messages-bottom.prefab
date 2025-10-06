@@ -96,7 +96,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -3.008,
+      "y": 0,
       "z": 0
     },
     "_lrot": {
@@ -137,7 +137,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 0,
-      "height": 40.32
+      "height": 45.36
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -162,7 +162,7 @@
     "__prefab": {
       "__id__": 6
     },
-    "_lineHeight": 32,
+    "_lineHeight": 36,
     "_string": "",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
@@ -313,6 +313,9 @@
     "__prefab": {
       "__id__": 17
     },
+    "scrollingSpeed": 200,
+    "delayAtBegining": 1,
+    "delayAtEnding": 1,
     "_id": ""
   },
   {
