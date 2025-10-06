@@ -133,7 +133,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 130.06,
+      "width": 0,
       "height": 68
     },
     "_anchorPoint": {
@@ -169,7 +169,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "x12",
+    "_string": "",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 60,
@@ -290,7 +290,7 @@
     "__prefab": {
       "__id__": 13
     },
-    "_opacity": 255,
+    "_opacity": 0,
     "_id": ""
   },
   {
