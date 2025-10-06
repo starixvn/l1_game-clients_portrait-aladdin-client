@@ -202,8 +202,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 75.05998229980469,
-      "height": 45.36
+      "width": 210.13192749023438,
+      "height": 60.480000000000004
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -238,13 +238,13 @@
       "b": 255,
       "a": 255
     },
-    "_string": "BET",
+    "_string": "TIỀN CƯỢC",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 36,
     "_fontSize": 36,
     "_fontFamily": "Arial",
-    "_lineHeight": 36,
+    "_lineHeight": 48,
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
@@ -386,7 +386,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 41.529991149902344,
+      "x": 109.06596374511719,
       "y": 0.149,
       "z": 0
     },
@@ -557,8 +557,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 250.68797302246094,
-      "height": 54
+      "width": 385.7599182128906,
+      "height": 60
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",

@@ -2,12 +2,12 @@
   "ver": "1.1.50",
   "importer": "prefab",
   "imported": true,
-  "uuid": "f565ec14-cb99-41cd-b1ec-80bc4c96d741",
+  "uuid": "fce7663c-3a22-4733-b31d-62bc3b877a36",
   "files": [
     ".json"
   ],
   "subMetas": {},
   "userData": {
-    "syncNodeName": "other-messages"
+    "syncNodeName": "info-player"
   }
 }
