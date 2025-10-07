@@ -85,6 +85,7 @@ export const languages = {
         "losses": "损失",
         "maintenance_time": "维护时间",
         "manual": "手动",
+        "max": "最大",
         "max_stake_hand": "手头上的最的大赌注为 %{maxBet}",
         "md5_copy": "复制",
         "md5_key": "MD5 钥匙",
@@ -258,6 +259,7 @@ export const languages = {
         "start": "开始",
         "start_auto_bet": "开始自动投注",
         "start_in": "投注时间：{time}秒",
+        "stop_auto_bet": "停止自动投注",
         "stop_on_loss": "亏损时停止",
         "stop_on_win": "赢时停止",
         "submit": "提交",
@@ -277,7 +279,7 @@ export const languages = {
         "total_bet": "总赌注",
         "total_stake": "总赌注",
         "total_stake_shorten": "总赌注",
-        "total_win": "总赢得",
+        "total_win": "总赢",
         "under_maintenance_suggest": "维护完成后请重新登录继续玩游戏。",
         "under_maintenance_time": "从 %{startTime} 到 %{endTime} (GMT+8)",
         "waggred": "Waggred",
@@ -303,6 +305,7 @@ export const languages = {
         "bet_level_shorten": "赌注级别",
         "bet_multiplier_x": "投注乘数20倍",
         "big_win": "大赢",
+        "btn_buy_free_spins": "購買\nFree Spins",
         "buy_free_spins": "購買 Free Spins",
         "coin_value": "硬币价值",
         "coin_value_shorten": "硬币价值",
@@ -325,7 +328,7 @@ export const languages = {
         "header_no": "号",
         "header_result_board": "结果板",
         "header_total_multiplier": "总乘数",
-        "header_total_win": "总赢得",
+        "header_total_win": "总赢",
         "header_tumble": "消除掉落",
         "header_tumble_win": "连续中奖",
         "header_win_amount": "获胜金额",
@@ -335,6 +338,8 @@ export const languages = {
         "label_on_game_icon": "级联卷轴",
         "last_free_spin": "最后一次 Free Spin",
         "mega_win": "巨级赢",
+        "msg_free_spins": "Free Spin中的递增倍数",
+        "msg_random_multipliers": "随机倍数最高可达250x",
         "multiplier": "乘数",
         "multiplier_preview_odds": "乘数奖金将适用于翻滚获胜。",
         "no_winning_combination": "没有获胜组合",
@@ -363,6 +368,7 @@ export const languages = {
         "trial_mode": "试玩模式",
         "trial_mode_text": "您处于试用模式",
         "tumble_win": "连续中奖",
+        "turbo_icon": "涡轮",
         "turbo_mode": "涡轮模式",
         "volatility": "波动",
         "volatility_high": "高",
@@ -371,14 +377,11 @@ export const languages = {
         "warning_trial_mode": "真玩，\\n赢真钱",
         "win_tumble_msg": "恭喜！",
         "you_have_won": "你赢了",
-        "you_win_free_spin": "您赢得",
-        "msg_random_multipliers": "随机倍数最高可达250x",
-        "mgs_free_spins": "Free Spin中的递增倍数",
-        "btn_buy_free_spins": "購買\nFree Spins"
+        "you_win_free_spin": "您赢得"
     },
-    "Olympub": {
-        "game_icon_name": "奥林酒馆",
-        "game_name": "奥林酒馆"
+    "AladdinsWishes": {
+        "game_icon_name": "阿拉丁神灯",
+        "game_name": "阿拉丁神灯"
     },
     "FreeSpinBonus": {
         "bet_level": "投注等级",

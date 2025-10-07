@@ -80,8 +80,9 @@ export const languages = {
         "balance": "잔액",
         "bet": "베팅",
         "msg_random_multipliers": "최대 250배 랜덤 멀티플라이어",
-        "mgs_free_spins": "{Free Spins}에서 증가하는 멀티플라이어",
-        "btn_buy_free_spins": "Free Spins\n구매"
+        "btn_buy_free_spins": "Free Spins\n구매",
+        "msg_free_spins": "Free Spins에서 증가하는 멀티플라이어",
+        "turbo_icon": "터보"
     },
     "Common": {
         "bet_history": "베팅 내역",
@@ -374,15 +375,17 @@ export const languages = {
         "title_multiplier": "배수",
         "crash_start_in": "시작까지 %{time}",
         "crashed": "크래시",
-        "start": "시작"
+        "start": "시작",
+        "max": "최대",
+        "stop_auto_bet": "자동 베팅 중단"
     },
     "PickleballLoveStory": {
         "game_name": null,
         "game_icon_name": null
     },
-    "Olympub": {
-        "game_name": "올림펍",
-        "game_icon_name": "올림펍"
+    "AladdinsWishes": {
+        "game_name": "알라딘의 소원",
+        "game_icon_name": "알라딘의 소원"
     },
     "FreeSpinBonus": {
         "bet_level": "베팅 레벨",

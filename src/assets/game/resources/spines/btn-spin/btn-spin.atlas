@@ -1,552 +1,104 @@
 
 btn-spin.webp
-size: 2043,1960
+size: 2354,185
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-disable
+BG
   rotate: true
-  xy: 203, 505
-  size: 202, 203
-  orig: 208, 208
-  offset: 3, 3
+  xy: 2020, 34
+  size: 149, 170
+  orig: 159, 179
+  offset: 5, 5
   index: -1
-lightcolumn2/lightcolumn2_00000
-  rotate: false
-  xy: 928, 884
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00001
-  rotate: false
-  xy: 1130, 884
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00002
-  rotate: false
-  xy: 1332, 884
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00003
-  rotate: false
-  xy: 1534, 884
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00004
-  rotate: false
-  xy: 1736, 884
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00005
-  rotate: false
-  xy: 1, 709
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00006
-  rotate: false
-  xy: 203, 709
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00007
-  rotate: false
-  xy: 405, 709
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00008
-  rotate: false
-  xy: 607, 709
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00009
-  rotate: false
-  xy: 809, 682
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00010
-  rotate: false
-  xy: 1011, 682
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00011
-  rotate: false
-  xy: 1213, 682
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00012
-  rotate: false
-  xy: 1415, 682
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00013
-  rotate: false
-  xy: 1617, 682
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00014
-  rotate: false
-  xy: 1819, 682
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lightcolumn2/lightcolumn2_00015
-  rotate: false
-  xy: 1, 507
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00028
+black-72-disable
   rotate: true
-  xy: 1, 1786
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
+  xy: 2, 2
+  size: 181, 195
+  orig: 195, 195
+  offset: 7, 0
   index: -1
-lighting3/lighting_00029
-  rotate: true
-  xy: 310, 1786
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00030
-  rotate: true
-  xy: 619, 1786
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00031
-  rotate: true
-  xy: 928, 1786
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00032
-  rotate: true
-  xy: 1237, 1786
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00033
-  rotate: true
-  xy: 1546, 1786
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00034
-  rotate: true
-  xy: 1, 1611
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00035
-  rotate: true
-  xy: 310, 1611
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00036
-  rotate: true
-  xy: 619, 1611
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00037
-  rotate: true
-  xy: 928, 1611
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00038
-  rotate: true
-  xy: 1237, 1611
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00039
-  rotate: true
-  xy: 1546, 1611
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00040
+electric circle/Electric _1
   rotate: false
-  xy: 1855, 1470
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00041
-  rotate: true
-  xy: 1, 1436
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00042
-  rotate: true
-  xy: 310, 1436
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00043
-  rotate: true
-  xy: 619, 1436
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00044
-  rotate: true
-  xy: 928, 1436
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00045
-  rotate: true
-  xy: 1237, 1436
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00046
-  rotate: true
-  xy: 1546, 1436
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00047
-  rotate: true
-  xy: 1, 1261
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00048
-  rotate: true
-  xy: 310, 1261
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00049
-  rotate: true
-  xy: 619, 1261
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00050
-  rotate: true
-  xy: 928, 1261
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00051
-  rotate: true
-  xy: 1237, 1261
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00052
-  rotate: true
-  xy: 1546, 1261
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00053
-  rotate: false
-  xy: 1855, 1161
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00054
-  rotate: true
-  xy: 1, 1086
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00055
-  rotate: true
-  xy: 310, 1086
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00056
-  rotate: true
-  xy: 619, 1086
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00057
-  rotate: true
-  xy: 928, 1086
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00058
-  rotate: true
-  xy: 1237, 1086
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00059
-  rotate: true
-  xy: 1546, 1086
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00060
-  rotate: true
-  xy: 1, 911
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00061
-  rotate: true
-  xy: 310, 911
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lighting3/lighting_00062
-  rotate: true
-  xy: 619, 911
-  size: 173, 307
-  orig: 173, 307
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00001
-  rotate: false
-  xy: 635, 455
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00003
-  rotate: false
-  xy: 862, 455
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00009
-  rotate: false
-  xy: 1089, 455
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00013
-  rotate: false
-  xy: 1316, 455
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00019
-  rotate: false
-  xy: 1543, 455
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00021
-  rotate: false
-  xy: 1770, 455
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00027
-  rotate: false
-  xy: 1, 278
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00037
-  rotate: false
-  xy: 228, 255
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00039
-  rotate: false
-  xy: 455, 228
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00045
-  rotate: false
-  xy: 682, 228
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00049
-  rotate: false
-  xy: 909, 228
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00055
-  rotate: false
-  xy: 1136, 228
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00057
-  rotate: false
-  xy: 1363, 228
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00063
-  rotate: false
-  xy: 1590, 228
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00066
-  rotate: false
-  xy: 1817, 228
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00072
-  rotate: false
-  xy: 1, 51
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00080
-  rotate: false
-  xy: 228, 28
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00084
-  rotate: false
-  xy: 455, 1
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00090
-  rotate: false
-  xy: 682, 1
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00092
-  rotate: false
-  xy: 909, 1
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00098
-  rotate: false
-  xy: 1136, 1
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00102
-  rotate: false
-  xy: 1363, 1
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00108
-  rotate: false
-  xy: 1590, 1
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00116
-  rotate: false
-  xy: 1817, 1
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-lightingball/lightingball_00120
-  rotate: false
-  xy: 408, 482
-  size: 225, 225
-  orig: 225, 225
-  offset: 0, 0
-  index: -1
-spin-button
-  rotate: false
-  xy: 1855, 1779
+  xy: 382, 3
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
+  index: -1
+electric circle/Electric _2
+  rotate: false
+  xy: 564, 3
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+electric circle/Electric _3
+  rotate: false
+  xy: 746, 3
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+electric circle/Electric _4
+  rotate: false
+  xy: 928, 3
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+electric circle/Electric _5
+  rotate: false
+  xy: 1110, 3
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+electric circle/Electric _6
+  rotate: false
+  xy: 1292, 3
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+electric circle/Electric _7
+  rotate: false
+  xy: 1474, 3
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+electric circle/Electric _8
+  rotate: false
+  xy: 1656, 3
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+hover/hover_1
+  rotate: false
+  xy: 199, 2
+  size: 181, 181
+  orig: 225, 225
+  offset: 22, 24
+  index: -1
+light2
+  rotate: true
+  xy: 2326, 156
+  size: 27, 26
+  orig: 39, 38
+  offset: 6, 6
+  index: -1
+smoke/smoke_1
+  rotate: false
+  xy: 1838, 3
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+spin
+  rotate: false
+  xy: 2192, 51
+  size: 132, 132
+  orig: 140, 140
+  offset: 4, 4
   index: -1

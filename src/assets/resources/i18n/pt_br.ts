@@ -35,16 +35,16 @@ export const languages = {
         "auto_spin_guide_text": "Número de Rodadas Automáticas",
         "start": "Começar",
         "free_spin_left_amount": "Free Spins Restantes %{amount}",
-        "from_settle_to_spin1": "GIRE PARA GANHAR!",
-        "from_settle_to_spin2": "GIRE MAIS, GANHE MAIS!",
-        "from_settle_to_spin3": "EXPERIMENTE O MODO TURBO!",
-        "show_msg_when_spin_phone": "TOQUE OU SEGURE GIRAR PARA COMEÇAR",
-        "top_message1": "SÍMBOLOS PAGAM EM QUALQUER LUGAR NA TELA",
-        "top_message2a": "PEDIR",
-        "top_message2b": "PARA MULTIPLICAR O GANHO EM CASCATA",
-        "top_message3": "GANHE ATÉ %{maxWin}x a aposta",
+        "from_settle_to_spin1": "Gire para ganhar!",
+        "from_settle_to_spin2": "Gire mais, ganhe mais!",
+        "from_settle_to_spin3": "Experimente o modo Turbo",
+        "show_msg_when_spin_phone": "Toque ou segure em Girar para começar",
+        "top_message1": "Os símbolos pagam em qualquer lugar da tela",
+        "top_message2a": "Bater",
+        "top_message2b": "para multiplicar o ganho de queda",
+        "top_message3": "Ganhe até %{maxWin}x a aposta",
         "win_tumble_msg": "PARABÉNS!",
-        "round_settle_msg": "BOA SORTE!",
+        "round_settle_msg": "Boa sorte!",
         "index": "Nº",
         "total_bet": "Aposta Total",
         "real_mode": "Modo Real",
@@ -56,7 +56,7 @@ export const languages = {
         "total_bet_shorten": "Aposta Total",
         "big_win": "Big Win",
         "auto_spin": "Rodada Automática",
-        "show_msg_when_spin_desktop": "SEGURE ESPAÇO OU CLIQUE EM GIRAR",
+        "show_msg_when_spin_desktop": "Mantenha a tecla Espaço pressionada ou clique em Girar",
         "scatter_odds_preview": "%{numOfScatters}+ Scatters ativam %{numOfSpins} FREE SPINS.",
         "coin_value_shorten": "Valor da Moeda",
         "you_have_won": "Você Ganhou",
@@ -80,8 +80,9 @@ export const languages = {
         "balance": "SALDO",
         "bet": "Aposta",
         "msg_random_multipliers": "Multiplicadores Aleatórios de até 250x",
-        "mgs_free_spins": "Multiplicador Crescente em {Free Spins}",
-        "btn_buy_free_spins": "Comprar\nFree Spins"
+        "btn_buy_free_spins": "Comprar\nFree Spins",
+        "msg_free_spins": "Multiplicador crescente em Free Spin",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "Histórico de Apostas",
@@ -374,15 +375,17 @@ export const languages = {
         "title_multiplier": "Multiplicador",
         "crash_start_in": "Começa em %{time}",
         "crashed": "CAIU",
-        "start": "Começar"
+        "start": "Começar",
+        "max": "Máx.",
+        "stop_auto_bet": "Parar Aposta Automática"
     },
     "PickleballLoveStory": {
         "game_name": "Pickleball Love Story",
         "game_icon_name": "Pickleball\nLove Story"
     },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
+    "AladdinsWishes": {
+        "game_name": "Desejos de Aladdin",
+        "game_icon_name": "Desejos de Aladdin"
     },
     "FreeSpinBonus": {
         "bet_level": "Nível de Aposta",

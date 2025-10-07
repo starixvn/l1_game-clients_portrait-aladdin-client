@@ -35,16 +35,16 @@ export const languages = {
         "auto_spin_guide_text": "Number of Auto Spins",
         "start": "Start",
         "free_spin_left_amount": "Free Spins Left %{amount}",
-        "from_settle_to_spin1": "SPIN PARA MANALO!",
-        "from_settle_to_spin2": "SPIN MORE, WIN MORE!",
-        "from_settle_to_spin3": "TRY TURBO MODE!",
-        "show_msg_when_spin_phone": "\nI-tap O HOLD SPIN PARA MAGSIMULA",
-        "top_message1": "SYMBOLS PAY ANYWHERE ON THE SCREEN",
-        "top_message2a": "HIT",
-        "top_message2b": "TO MULTIPLY TUMBLE WIN",
-        "top_message3": "WIN UP TO %{maxWin}X BET",
+        "from_settle_to_spin1": "Paikutin para manalo!",
+        "from_settle_to_spin2": "Umikot pa, mas manalo!",
+        "from_settle_to_spin3": "Subukan ang Turbo mode",
+        "show_msg_when_spin_phone": "I-tap o pindutin nang matagal ang Spin upang magsimula",
+        "top_message1": "Nagbabayad ang mga simbolo kahit saan sa screen",
+        "top_message2a": "Pindutin",
+        "top_message2b": "para dumami ang panalo sa tumble",
+        "top_message3": "Manalo ng hanggang %{maxWin}x na taya",
         "win_tumble_msg": "CONGRATULATION!",
-        "round_settle_msg": "GOOD LUCK!",
+        "round_settle_msg": "Good luck!",
         "index": "No.",
         "total_bet": "Total Bet",
         "real_mode": "Real Mode",
@@ -56,7 +56,7 @@ export const languages = {
         "total_bet_shorten": "Total Bet",
         "big_win": "Big Win",
         "auto_spin": "Auto Spin",
-        "show_msg_when_spin_desktop": "HOLD SPACE OR CLICK SPIN",
+        "show_msg_when_spin_desktop": "Pindutin nang matagal ang Space o i-click ang Spin",
         "scatter_odds_preview": "%{numOfScatters}+ Scatters trigger %{numOfSpins} FREE SPINS.",
         "coin_value_shorten": "Coin Value",
         "you_have_won": "You have Won",
@@ -79,9 +79,10 @@ export const languages = {
         "volatility_high": "Mataas",
         "balance": "BALANCE",
         "bet": "Taya",
-        "msg_random_multipliers": "Mga Random na Multiplier Hanggang 250x",
-        "mgs_free_spins": "Pataas na Multiplier Sa {Free Spins}",
-        "btn_buy_free_spins": "Buy\nFree Spins"
+        "msg_random_multipliers": "Mga random na Multiplier hanggang 250x",
+        "btn_buy_free_spins": "Buy\nFree Spins",
+        "msg_free_spins": "Pataas na Multiplier sa Free Spins",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "Bet History",
@@ -374,15 +375,17 @@ export const languages = {
         "title_multiplier": "Multiplier",
         "crash_start_in": "Magsisimula Sa",
         "crashed": "NATAPOS",
-        "start": "Simula"
+        "start": "Simula",
+        "max": "Max",
+        "stop_auto_bet": "Itigil ang Auto Bet"
     },
     "PickleballLoveStory": {
         "game_name": "Pickleball Love Story",
         "game_icon_name": "Pickleball\nLove Story"
     },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
+    "AladdinsWishes": {
+        "game_name": "Aladdin's Wishes",
+        "game_icon_name": "Aladdin's Wishes"
     },
     "FreeSpinBonus": {
         "bet_level": "Bet Level",

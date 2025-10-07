@@ -35,16 +35,16 @@ export const languages = {
         "auto_spin_guide_text": "Otomatik Dönüş Sayısı",
         "start": "Başlat",
         "free_spin_left_amount": "Kalan Free Spins %{amount}",
-        "from_settle_to_spin1": "KAZANMAK İÇİN DÖNDÜR!",
-        "from_settle_to_spin2": "DAHA ÇOK DÖNDÜR, DAHA ÇOK KAZAN!",
-        "from_settle_to_spin3": "TURBO MODU DENEYİN!",
-        "show_msg_when_spin_phone": "BAŞLAMAK İÇİN DÖNDÜRME TUŞUNA DOKUNUN VEYA BASILI TUTUN",
-        "top_message1": "SEMBOLLEER EKRANIN HER YERİNDE ÖDEME YAPAR",
+        "from_settle_to_spin1": "Çevir ve kazan!",
+        "from_settle_to_spin2": "Daha çok çevir, daha çok kazan!",
+        "from_settle_to_spin3": "Turbo modunu dene",
+        "show_msg_when_spin_phone": "Başlamak için Döndür'e dokunun veya basılı tutun",
+        "top_message1": "Semboller ekranın herhangi bir yerinde ödeme yapar",
         "top_message2a": "Vur",
-        "top_message2b": "YUVARLANAN KAZANCI ÇARPMAK İÇİN",
-        "top_message3": "BAHİSİN %{maxWin} KATI KAZANIN",
+        "top_message2b": "takla kazancını çarpmak için",
+        "top_message3": "Bahsin %{maxWin}x'ine kadar kazanın",
         "win_tumble_msg": "TEBRİKLER!",
-        "round_settle_msg": "İYİ ŞANSLAR!",
+        "round_settle_msg": "Bol şans!",
         "index": "Sıra No.",
         "total_bet": "Toplam Bahis",
         "real_mode": "Gerçek Mod",
@@ -56,7 +56,7 @@ export const languages = {
         "total_bet_shorten": "Toplam Bahis",
         "big_win": "Big Win",
         "auto_spin": "Otomatik Dönüş",
-        "show_msg_when_spin_desktop": "BOŞLUK TUŞUNA BASILI TUTUN VEYA DÖNDÜR'E TIKLAYIN",
+        "show_msg_when_spin_desktop": "Boşluk tuşunu basılı tutun veya Döndür'e tıklayın",
         "scatter_odds_preview": "%{numOfScatters}+ Scatter, %{numOfSpins} FREE SPINS'i tetikler.",
         "coin_value_shorten": "Jeton Değeri",
         "you_have_won": "Kazandınız",
@@ -80,8 +80,9 @@ export const languages = {
         "balance": "BAKİYE",
         "bet": "Bahis",
         "msg_random_multipliers": "250x'e Kadar Rastgele Çarpanlar",
-        "mgs_free_spins": "{Free Spins}'te Artan Çarpan",
-        "btn_buy_free_spins": "Free Spins\nSatın Al"
+        "btn_buy_free_spins": "Free Spins\nSatın Al",
+        "msg_free_spins": "Free Spins'te Artan Çarpan",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "Bahis Geçmişi",
@@ -374,15 +375,17 @@ export const languages = {
         "title_multiplier": "Çarpan",
         "crash_start_in": "Başlayacak",
         "crashed": "ÇÖKTÜ",
-        "start": "Başlat"
+        "start": "Başlat",
+        "max": "Maks.",
+        "stop_auto_bet": "Otomatik Bahsi Durdur"
     },
     "PickleballLoveStory": {
         "game_name": null,
         "game_icon_name": null
     },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
+    "AladdinsWishes": {
+        "game_name": "Alaaddin'in Dilekleri",
+        "game_icon_name": "Alaaddin'in Dilekleri"
     },
     "FreeSpinBonus": {
         "bet_level": "Bahis Seviyesi",

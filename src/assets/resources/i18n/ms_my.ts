@@ -35,16 +35,16 @@ export const languages = {
         "auto_spin_guide_text": "Bilangan Auto Spins",
         "start": "Mula",
         "free_spin_left_amount": "Free Spins Tinggal %{amount}",
-        "from_settle_to_spin1": "SPIN UNTUK MENANG!",
-        "from_settle_to_spin2": "SPIN LEBIH, MENANG LEBIH!",
-        "from_settle_to_spin3": "CUBA MOD TURBO!",
-        "show_msg_when_spin_phone": "KETIK ATAU TAHAN SPIN UNTUK BERMULA",
-        "top_message1": "SIMBOL MEMBAYAR DI MANA-MANA PADA SKRIN",
-        "top_message2a": "TEKAN",
-        "top_message2b": "UNTUK MENDARABKAN KEMENANGAN TUMBLE",
-        "top_message3": "MENANG SEHINGGA %{maxWin}X BET",
+        "from_settle_to_spin1": "Pusing untuk menang!",
+        "from_settle_to_spin2": "Putar lebih banyak, menang lebih banyak!",
+        "from_settle_to_spin3": "Cuba mod Turbo",
+        "show_msg_when_spin_phone": "Sentuh atau tahan Spin untuk memulakan",
+        "top_message1": "Simbol membayar di mana-mana pada skrin",
+        "top_message2a": "Pukul",
+        "top_message2b": "untuk melipatgandakan kemenangan runtuhan",
+        "top_message3": "Menang sehingga %{maxWin}x pertaruhan",
         "win_tumble_msg": "TAHNIAH!",
-        "round_settle_msg": "SELAMAT BERJAYA!",
+        "round_settle_msg": "Semoga berjaya!",
         "index": "No.",
         "total_bet": "Jumlah Taruhan",
         "real_mode": "Mod Real",
@@ -56,7 +56,7 @@ export const languages = {
         "total_bet_shorten": "Jumlah Pertaruhan",
         "big_win": "Big Win",
         "auto_spin": "Pusingan Auto",
-        "show_msg_when_spin_desktop": "TAHAN SPACE ATAU KLIK SPIN",
+        "show_msg_when_spin_desktop": "Tahan Ruang atau klik Spin",
         "scatter_odds_preview": "%{numOfScatters}+ Scatters mencetuskan %{numOfSpins} FREE SPINS.",
         "coin_value_shorten": "Nilai Syiling",
         "you_have_won": "Anda Telah Menang",
@@ -79,9 +79,10 @@ export const languages = {
         "volatility_high": "Tinggi",
         "balance": "BALANCE",
         "bet": "Taruhan",
-        "msg_random_multipliers": "Pengganda Rawak Sehingga 250x",
-        "mgs_free_spins": "Peningkatan Pengganda Dalam {Free Spins}",
-        "btn_buy_free_spins": "Beli\nFree Spins"
+        "msg_random_multipliers": "Pengganda rawak Sehingga 250x",
+        "btn_buy_free_spins": "Beli\nFree Spins",
+        "msg_free_spins": "Peningkatan Pengganda Dalam Free Spins",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "Sejarah Pertaruhan",
@@ -374,11 +375,13 @@ export const languages = {
         "title_multiplier": "Pengganda ",
         "crash_start_in": "Mula dalam %{time}",
         "crashed": "RUNTUH",
-        "start": "Mula"
+        "start": "Mula",
+        "max": "Maks",
+        "stop_auto_bet": "Berhenti Pertaruhan Auto"
     },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
+    "AladdinsWishes": {
+        "game_name": "Aladdin's Wishes",
+        "game_icon_name": "Aladdin's Wishes"
     },
     "FreeSpinBonus": {
         "bet_level": "Bet Level",

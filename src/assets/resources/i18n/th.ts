@@ -88,6 +88,7 @@ export const languages = {
         "losses": "การสูญเสีย",
         "maintenance_time": "เวลาปรับปรุงระบบ",
         "manual": "แมนนวล",
+        "max": "สูงสุด",
         "max_stake_hand": "เดิมพันรวมสูงสุดในมือคือ %{maxBet}",
         "md5_copy": "คัดลอก",
         "md5_key": "คีย์ MD5",
@@ -263,6 +264,7 @@ export const languages = {
         "start": "เริ่ม",
         "start_auto_bet": "เริ่มเดิมพันอัตโนมัติ",
         "start_in": "เวลาเดิมพัน: {time}s",
+        "stop_auto_bet": "หยุดการเดิมพันอัตโนมัติ",
         "stop_on_loss": "หยุดเมื่อแพ้",
         "stop_on_win": "หยุดเมื่อชนะ",
         "submit": "ตกลง",
@@ -303,6 +305,7 @@ export const languages = {
         "bet_level_shorten": "ระดับการเดิมพัน",
         "bet_multiplier_x": "เดิมพัน 20x",
         "big_win": "รางวัลใหญ่",
+        "btn_buy_free_spins": "ซื้อ\nFree Spins",
         "buy_free_spins": "ซื้อ Free Spins",
         "coin_value": "มูลค่าเหรียญ",
         "coin_value_shorten": "มูลค่าเหรียญ",
@@ -335,6 +338,8 @@ export const languages = {
         "label_on_game_icon": "Cascading Reels",
         "last_free_spin": "Free Spin สุดท้าย",
         "mega_win": "เมกะวิน",
+        "msg_free_spins": "ตัวคูณเพิ่มขึ้นใน Free Spin",
+        "msg_random_multipliers": "ตัวคูณสุ่มสูงสุด 250x",
         "multiplier": "ตัวคูณ",
         "multiplier_preview_odds": "โบนัสตัวคูณจะใช้สำหรับ Tumble Win",
         "no_winning_combination": "ไม่มีชุดที่ชนะ",
@@ -363,6 +368,7 @@ export const languages = {
         "trial_mode": "โหมดทดลอง",
         "trial_mode_text": "คุณอยู่ในโหมดทดลอง",
         "tumble_win": "ชนะ Tumble",
+        "turbo_icon": "เทอร์โบ",
         "turbo_mode": "โหมด Turbo",
         "volatility": "ความผันผวน",
         "volatility_high": "สูง",
@@ -371,14 +377,11 @@ export const languages = {
         "warning_trial_mode": "เล่นจริง\\nชนะจริง",
         "win_tumble_msg": "ขอแสดงความยินดี!",
         "you_have_won": "คุณชนะแล้ว!",
-        "you_win_free_spin": "คุณชนะ",
-        "msg_random_multipliers": "ตัวคูณสุ่มสูงสุด 250x",
-        "mgs_free_spins": "ตัวคูณเพิ่มขึ้นใน Free Spin",
-        "btn_buy_free_spins": "ซื้อ\nFree Spins"
+        "you_win_free_spin": "คุณชนะ"
     },
-    "Olympub": {
-        "game_icon_name": "Olympub",
-        "game_name": "Olympub"
+    "AladdinsWishes": {
+        "game_icon_name": "อะลาดิน\nกับตะเกียงวิเศษ",
+        "game_name": "อะลาดินกับตะเกียงวิเศษ"
     },
     "FreeSpinBonus": {
         "bet_level": "ระดับเดิมพัน",

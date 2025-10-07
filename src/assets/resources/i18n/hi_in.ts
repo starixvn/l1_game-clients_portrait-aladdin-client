@@ -38,7 +38,7 @@ export const languages = {
         "from_settle_to_spin1": "SPIN करें और जीतें!",
         "from_settle_to_spin2": "और SPIN करें, और जीतें!",
         "from_settle_to_spin3": "टर्बो मोड आज़माएं!",
-        "show_msg_when_spin_phone": "शुरू करने के लिए स्पिन पर टैप करें या होल्ड करें",
+        "show_msg_when_spin_phone": "शुरू करने के लिए स्पिन पर टैप करें या दबाकर रखें",
         "top_message1": "स्क्रीन पर कहीं भी प्रतीक भुगतान करते हैं",
         "top_message2a": "हिट",
         "top_message2b": "टम्बल जीत को गुणा करने के लिए",
@@ -56,7 +56,7 @@ export const languages = {
         "total_bet_shorten": "कुल बेट",
         "big_win": "Big Win",
         "auto_spin": "ऑटो स्पिन",
-        "show_msg_when_spin_desktop": "SPACE दबाकर रखें या SPIN पर क्लिक करें",
+        "show_msg_when_spin_desktop": "स्पेस दबाकर रखें या स्पिन पर क्लिक करें",
         "scatter_odds_preview": "%{numOfScatters}+ Scatters %{numOfSpins} FREE SPINS को ट्रिगर करते हैं।",
         "coin_value_shorten": "सिक्के का मूल्य",
         "you_have_won": "आप जीत गए",
@@ -80,8 +80,9 @@ export const languages = {
         "balance": "बैलेंस",
         "bet": "बेट",
         "msg_random_multipliers": "250x तक यादृच्छिक गुणक",
-        "mgs_free_spins": "{Free Spins} में बढ़ता हुआ गुणक",
-        "btn_buy_free_spins": "Free Spins\nखरीदें"
+        "btn_buy_free_spins": "Free Spins\nखरीदें",
+        "msg_free_spins": "Free Spins में बढ़ता हुआ गुणक",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "बेट इतिहास",
@@ -374,11 +375,13 @@ export const languages = {
         "title_multiplier": "गुणक ",
         "crash_start_in": "में शुरू %{time}",
         "crashed": "क्रैश हो गया",
-        "start": "शुरू"
+        "start": "शुरू",
+        "max": "अधिकतम",
+        "stop_auto_bet": "ऑटो बेट बंद करें"
     },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
+    "AladdinsWishes": {
+        "game_name": "Aladdin's Wishes",
+        "game_icon_name": "Aladdin's Wishes"
     },
     "FreeSpinBonus": {
         "bet_level": "बेट लेवल",
