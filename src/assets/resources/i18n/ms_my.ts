@@ -79,7 +79,7 @@ export const languages = {
         "volatility_high": "Tinggi",
         "balance": "BALANCE",
         "bet": "Taruhan",
-        "msg_random_multipliers": "Pengganda rawak Sehingga 250x",
+        "msg_random_multipliers": "Pengganda rawak Sehingga 500x",
         "btn_buy_free_spins": "Beli\nFree Spins",
         "msg_free_spins": "Peningkatan Pengganda Dalam Free Spins",
         "turbo_icon": "Turbo"
@@ -377,7 +377,22 @@ export const languages = {
         "crashed": "RUNTUH",
         "start": "Mula",
         "max": "Maks",
-        "stop_auto_bet": "Berhenti Pertaruhan Auto"
+        "stop_auto_bet": "Berhenti Pertaruhan Auto",
+        "msg_rotate_to_portrait": "Sila putar skrin anda ke mod potret untuk bermain",
+        "auto_bet_header": "Arahan Pertaruhan Auto",
+        "how_to_use_auto_bet": "Cara menggunakan Auto Bet",
+        "auto_bet_para_1": "Auto Bet membolehkan anda menetapkan peraturan untuk pertaruhan automatik sehingga syarat yang anda pilih dipenuhi.",
+        "auto_bet_para_2": "Bilangan Pertaruhan: Jumlah pusingan untuk pertaruhan auto.",
+        "auto_bet_para_3": "Apabila Menang",
+        "auto_bet_para_3_1": "Reset – Kembali ke pertaruhan awal anda selepas menang.",
+        "auto_bet_para_3_2": "Tambah sebanyak: Naikkan pertaruhan anda mengikut peratusan yang ditetapkan apabila anda menang.",
+        "auto_bet_para_3_3": "(Contoh: Tetapkan +20% → Mulakan dengan $10 → menang → pertaruhan seterusnya $12)",
+        "auto_bet_para_4": "Kekalahan",
+        "auto_bet_para_4_1": "Reset: Kembali ke pertaruhan permulaan anda selepas kerugian.",
+        "auto_bet_para_4_2": "Tetapkan Semula: Tingkatkan taruhan anda dengan peratusan yang ditetapkan apabila anda kalah.",
+        "auto_bet_para_4_3": "(Contoh: Tetapkan +50% → Mula dengan $10 → kalah → pertaruhan seterusnya $15)",
+        "auto_bet_para_5": "Stop on Win: Hentikan Pertaruhan Auto apabila mencapai sasaran kemenangan anda.",
+        "auto_bet_para_6": "Berhenti Apabila Rugi: Hentikan Pertaruhan Auto apabila mencapai had kerugian anda."
     },
     "AladdinsWishes": {
         "game_name": "Aladdin's Wishes",

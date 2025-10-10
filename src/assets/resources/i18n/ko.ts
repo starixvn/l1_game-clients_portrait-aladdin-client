@@ -79,7 +79,7 @@ export const languages = {
         "volatility_high": "높음",
         "balance": "잔액",
         "bet": "베팅",
-        "msg_random_multipliers": "최대 250배 랜덤 멀티플라이어",
+        "msg_random_multipliers": "최대 500배 랜덤 멀티플라이어",
         "btn_buy_free_spins": "Free Spins\n구매",
         "msg_free_spins": "Free Spins에서 증가하는 멀티플라이어",
         "turbo_icon": "터보"
@@ -377,7 +377,22 @@ export const languages = {
         "crashed": "크래시",
         "start": "시작",
         "max": "최대",
-        "stop_auto_bet": "자동 베팅 중단"
+        "stop_auto_bet": "자동 베팅 중단",
+        "msg_rotate_to_portrait": "플레이하려면 화면을 세로 모드로 회전하세요.",
+        "auto_bet_header": "자동 베팅 안내",
+        "how_to_use_auto_bet": "Auto Bet 사용 방법",
+        "auto_bet_para_1": "Auto Bet을 통해 선택한 조건이 충족될 때까지 자동 베팅 규칙을 설정할 수 있습니다.",
+        "auto_bet_para_2": "베팅 횟수: 자동 베팅할 총 라운드 수입니다.",
+        "auto_bet_para_3": "승리 시",
+        "auto_bet_para_3_1": "재설정 – 승리 후 시작 베팅으로 돌아갑니다.",
+        "auto_bet_para_3_2": "증가: 승리 시 설정된 백분율만큼 베팅액을 올립니다.",
+        "auto_bet_para_3_3": "(예: +20% 설정 → $10으로 시작 → 승리 → 다음 베팅 $12)",
+        "auto_bet_para_4": "패배 시",
+        "auto_bet_para_4_1": "Reset: 패배 후 처음 베팅으로 돌아갑니다.",
+        "auto_bet_para_4_2": "재설정: 졌을 때 설정된 비율만큼 베팅을 올립니다.",
+        "auto_bet_para_4_3": "(예: +50% 설정 → $10부터 시작 → 패배 → 다음 베팅 $15)",
+        "auto_bet_para_5": "Stop on Win: 당첨 목표에 도달하면 자동 베팅을 중단합니다.",
+        "auto_bet_para_6": "손실 시 중단: 손실 한도에 도달하면 자동 베팅을 중단합니다."
     },
     "PickleballLoveStory": {
         "game_name": null,

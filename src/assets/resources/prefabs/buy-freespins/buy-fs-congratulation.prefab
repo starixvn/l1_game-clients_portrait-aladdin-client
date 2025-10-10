@@ -55,8 +55,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 1,
-      "y": 1,
+      "x": 1.15,
+      "y": 1.15,
       "z": 1
     },
     "_mobility": 0,
@@ -173,7 +173,7 @@
       "r": 0,
       "g": 0,
       "b": 0,
-      "a": 150
+      "a": 200
     },
     "_spriteFrame": {
       "__uuid__": "112fa8bd-6bd6-4804-8bde-00279c46ce76@ff1d0",
@@ -426,13 +426,13 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 697,
-      "height": 682
+      "width": 470,
+      "height": 537.030029296875
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
-      "x": 0.5078909612625538,
-      "y": 0.46920821114369504
+      "x": 0.5,
+      "y": 0.481462829736211
     },
     "_id": ""
   },
@@ -467,7 +467,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "show",
+    "defaultAnimation": "",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 0,
@@ -690,7 +690,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 158.5,
+      "y": 10.969,
       "z": 0
     },
     "_lrot": {
@@ -1028,8 +1028,6 @@
       "__id__": 0
     },
     "fileId": "d4HHMixe9CmpDDex77DcZq",
-    "instance": null,
-    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
@@ -1062,7 +1060,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -270,
+      "y": -299.487,
       "z": 0
     },
     "_lrot": {

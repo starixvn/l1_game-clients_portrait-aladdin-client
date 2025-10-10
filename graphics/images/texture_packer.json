@@ -28,10 +28,6 @@
   "options": {
     "params": [
       [
-        "--webp-quality",
-        100
-      ],
-      [
         "--maxrects-heuristics",
         "Best"
       ],
