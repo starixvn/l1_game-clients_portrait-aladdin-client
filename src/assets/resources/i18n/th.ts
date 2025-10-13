@@ -88,6 +88,7 @@ export const languages = {
         "losses": "การสูญเสีย",
         "maintenance_time": "เวลาปรับปรุงระบบ",
         "manual": "แมนนวล",
+        "max": "สูงสุด",
         "max_stake_hand": "เดิมพันรวมสูงสุดในมือคือ %{maxBet}",
         "md5_copy": "คัดลอก",
         "md5_key": "คีย์ MD5",
@@ -263,6 +264,7 @@ export const languages = {
         "start": "เริ่ม",
         "start_auto_bet": "เริ่มเดิมพันอัตโนมัติ",
         "start_in": "เวลาเดิมพัน: {time}s",
+        "stop_auto_bet": "หยุดการเดิมพันอัตโนมัติ",
         "stop_on_loss": "หยุดเมื่อแพ้",
         "stop_on_win": "หยุดเมื่อชนะ",
         "submit": "ตกลง",
@@ -291,7 +293,22 @@ export const languages = {
         "win": "ชนะ",
         "win_loss": "ชนะ แพ้",
         "wins": "ชนะ",
-        "you_reach_max_win": "คุณถึงยอดชนะสูงสุด"
+        "you_reach_max_win": "คุณถึงยอดชนะสูงสุด",
+        "msg_rotate_to_portrait": "กรุณาหมุนหน้าจอเป็นแนวตั้งเพื่อเล่น",
+        "auto_bet_header": "คำแนะนำการเดิมพันอัตโนมัติ",
+        "how_to_use_auto_bet": "วิธีใช้ Auto Bet",
+        "auto_bet_para_1": "Auto Bet ให้คุณตั้งค่ากฎสำหรับการเดิมพันอัตโนมัติจนกว่าจะเป็นไปตามเงื่อนไขที่คุณเลือก",
+        "auto_bet_para_2": "จำนวนการเดิมพัน: จำนวนรอบทั้งหมดในการเดิมพันอัตโนมัติ",
+        "auto_bet_para_3": "เมื่อชนะ",
+        "auto_bet_para_3_1": "รีเซ็ต – กลับไปที่เดิมพันเริ่มต้นของคุณหลังจากชนะ",
+        "auto_bet_para_3_2": "เพิ่มตาม: เพิ่มเงินเดิมพันของคุณตามเปอร์เซ็นต์ที่กำหนดเมื่อคุณชนะ",
+        "auto_bet_para_3_3": "(ตัวอย่าง: ตั้งค่า +20% → เริ่มต้นด้วย $10 → ชนะ → เดิมพันครั้งต่อไป $12)",
+        "auto_bet_para_4": "เมื่อแพ้",
+        "auto_bet_para_4_1": "Reset: กลับไปที่เดิมพันเริ่มต้นของคุณหลังจากแพ้",
+        "auto_bet_para_4_2": "Reset: เพิ่มเดิมพันของคุณตามเปอร์เซ็นต์ที่กำหนดเมื่อคุณแพ้",
+        "auto_bet_para_4_3": "(ตัวอย่าง: ตั้งค่า +50% → เริ่มต้นที่ $10 → แพ้ → เดิมพันครั้งต่อไป $15)",
+        "auto_bet_para_5": "Stop on Win: หยุดการเดิมพันอัตโนมัติเมื่อถึงเป้าหมายการชนะของคุณ",
+        "auto_bet_para_6": "Stop on Loss: หยุดการเดิมพันอัตโนมัติเมื่อถึงขีดจำกัดการขาดทุนของคุณ"
     },
     "cascadingslot": {
         "auto_spin": "สปินอัตโนมัติ",
@@ -303,6 +320,7 @@ export const languages = {
         "bet_level_shorten": "ระดับการเดิมพัน",
         "bet_multiplier_x": "เดิมพัน 20x",
         "big_win": "รางวัลใหญ่",
+        "btn_buy_free_spins": "ซื้อ\nFree Spins",
         "buy_free_spins": "ซื้อ Free Spins",
         "coin_value": "มูลค่าเหรียญ",
         "coin_value_shorten": "มูลค่าเหรียญ",
@@ -335,6 +353,8 @@ export const languages = {
         "label_on_game_icon": "Cascading Reels",
         "last_free_spin": "Free Spin สุดท้าย",
         "mega_win": "เมกะวิน",
+        "msg_free_spins": "ตัวคูณเพิ่มขึ้นใน Free Spin",
+        "msg_random_multipliers": "ตัวคูณสุ่มสูงสุด 500x",
         "multiplier": "ตัวคูณ",
         "multiplier_preview_odds": "โบนัสตัวคูณจะใช้สำหรับ Tumble Win",
         "no_winning_combination": "ไม่มีชุดที่ชนะ",
@@ -363,6 +383,7 @@ export const languages = {
         "trial_mode": "โหมดทดลอง",
         "trial_mode_text": "คุณอยู่ในโหมดทดลอง",
         "tumble_win": "ชนะ Tumble",
+        "turbo_icon": "เทอร์โบ",
         "turbo_mode": "โหมด Turbo",
         "volatility": "ความผันผวน",
         "volatility_high": "สูง",
@@ -371,14 +392,11 @@ export const languages = {
         "warning_trial_mode": "เล่นจริง\\nชนะจริง",
         "win_tumble_msg": "ขอแสดงความยินดี!",
         "you_have_won": "คุณชนะแล้ว!",
-        "you_win_free_spin": "คุณชนะ",
-        "msg_random_multipliers": "ตัวคูณสุ่มสูงสุด 250x",
-        "mgs_free_spins": "ตัวคูณเพิ่มขึ้นใน Free Spin",
-        "btn_buy_free_spins": "ซื้อ\nFree Spins"
+        "you_win_free_spin": "คุณชนะ"
     },
-    "Olympub": {
-        "game_icon_name": "Olympub",
-        "game_name": "Olympub"
+    "AladdinsWishes": {
+        "game_icon_name": "อะลาดิน\nกับตะเกียงวิเศษ",
+        "game_name": "อะลาดินกับตะเกียงวิเศษ"
     },
     "FreeSpinBonus": {
         "bet_level": "ระดับเดิมพัน",

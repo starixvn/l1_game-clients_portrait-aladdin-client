@@ -10,14 +10,14 @@ declare global {
 
 const defaultConfig: gc.Configs.SiteConfigs = {
     isDev: false, // if this property is true, then you should add token=anything into the querytring to sso to the game http://localhost:7456/?token=anything
-    systemType: "SG",
+    systemType: "VG",
     serverDomainMapper: {
         localhost: "lumigame.com",
     },
     ssl: true,
-    subDomain: "l1-proxy",
+    subDomain: "l2-proxy",
     env: "LOCAL",
-    subGuideDomain: "l1-guide-2",
+    subGuideDomain: "l2-guide",
     SGConnectSubDomain: "connectsite",
     enableMsgpackParserAllGames: false,
     enableMsgpackParserOnNotification: false,
@@ -25,9 +25,9 @@ const defaultConfig: gc.Configs.SiteConfigs = {
         proxyPath: GAME_NAME.toLowerCase(),
         route: GAME_NAME.toLowerCase(),
     },
-    storagePrefixKey: "olympub",
+    storagePrefixKey: "aladdinswishes",
     tolgeeUrl: "",
-    subPromotionDomain: "l2-promotion2",
+    subPromotionDomain: "l2-promotion",
     sentry: {
         dsn: "https://9c999f9b51e3b4543cb160b946b5bcbe@sentry-k8s.lumigame.com/30",
         browserUrl: "https://browser.sentry-cdn.com/10.5.0/bundle.min.js",

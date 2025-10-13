@@ -38,7 +38,7 @@ export const languages = {
         "from_settle_to_spin1": "ঘুরান এবং জিতে নিন!",
         "from_settle_to_spin2": "আরও ঘোরাও, আরও জেতো!",
         "from_settle_to_spin3": "টার্বো মোড চেষ্টা করুন!",
-        "show_msg_when_spin_phone": "শুরু করতে আলতো চাপুন বা স্পিন ধরে রাখুন",
+        "show_msg_when_spin_phone": "শুরু করতে স্পিন-এ টেপ করুন অথবা ধরে থাকুন",
         "top_message1": "সিম্বলগুলি স্ক্রিনের যে কোনও জায়গায় পে করে",
         "top_message2a": "মারুন",
         "top_message2b": "TUMBLE WIN গুণ করতে",
@@ -56,7 +56,7 @@ export const languages = {
         "total_bet_shorten": "মোট বাজি",
         "big_win": "Big Win",
         "auto_spin": "অটো স্পিন",
-        "show_msg_when_spin_desktop": "SPACE টি ধরে রাখুন অথবা SPIN-এ ক্লিক করুন",
+        "show_msg_when_spin_desktop": "স্পেস ধরে রাখুন অথবা স্পিন-এ ক্লিক করুন",
         "scatter_odds_preview": "%{numOfScatters}+ Scatters %{numOfSpins} FREE SPINS ট্রিগার করে।",
         "coin_value_shorten": "মুদ্রা মান",
         "you_have_won": "আপনি জিতেছেন",
@@ -80,8 +80,9 @@ export const languages = {
         "balance": "ব্যালেন্স",
         "bet": "বেট",
         "msg_random_multipliers": "250x পর্যন্ত র্যান্ডম মাল্টিপ্লায়ার",
-        "mgs_free_spins": "{Free Spins} এ ক্রমবর্ধমান মাল্টিপ্লায়ার",
-        "btn_buy_free_spins": "Buy Free Spins"
+        "btn_buy_free_spins": "Buy Free Spins",
+        "msg_free_spins": "Free Spins এ ক্রমবর্ধমান মাল্টিপ্লায়ার",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "বাজি ইতিহাস",
@@ -374,11 +375,28 @@ export const languages = {
         "title_multiplier": "গুণক",
         "crash_start_in": "শুরু হবে %{time}",
         "crashed": "বিধ্বস্ত",
-        "start": "শুরু করুন"
+        "start": "শুরু করুন",
+        "max": "সর্বোচ্চ",
+        "stop_auto_bet": "অটো বেট বন্ধ করুন",
+        "msg_rotate_to_portrait": "খেলতে আপনার স্ক্রিনটি পোর্ট্রেট মোডে ঘোরান",
+        "auto_bet_header": "অটো বেট নির্দেশাবলী",
+        "how_to_use_auto_bet": "Auto Bet কিভাবে ব্যবহার করবেন",
+        "auto_bet_para_1": "Auto Bet আপনাকে স্বয়ংক্রিয় বেটিংয়ের জন্য নিয়ম সেট করতে দেয় যতক্ষণ না আপনার পছন্দসই শর্তগুলো পূরণ হয়।",
+        "auto_bet_para_2": "বেটের সংখ্যা: অটো-বেটের জন্য মোট রাউন্ড।",
+        "auto_bet_para_3": "জয় হলে",
+        "auto_bet_para_3_1": "রিসেট - জয়ের পরে আপনার শুরুর বেটে ফিরে যান।",
+        "auto_bet_para_3_2": "বৃদ্ধি করুন: জিতলে আপনার বাজি একটি নির্দিষ্ট শতাংশ হারে বাড়ান।",
+        "auto_bet_para_3_3": "(উদাহরণ: +20% সেট করুন → $10 দিয়ে শুরু করুন → জিতুন → পরবর্তী বাজি $12)",
+        "auto_bet_para_4": "ক্ষতিতে",
+        "auto_bet_para_4_1": "Reset: হারানোর পরে আপনার শুরুর বাজি তে ফিরে যান।",
+        "auto_bet_para_4_2": "রিসেট: হারলে আপনার বাজি একটি সেট শতাংশ বাড়ান।",
+        "auto_bet_para_4_3": "(উদাহরণ: +50% সেট করুন → $10 দিয়ে শুরু করুন → হারুন → পরবর্তী বাজি $15)",
+        "auto_bet_para_5": "Stop on Win: আপনার জয়ের লক্ষ্যে পৌঁছালে অটো বেট বন্ধ করুন।",
+        "auto_bet_para_6": "লস হলে বন্ধ করুন: আপনার ক্ষতির সীমা পৌঁছে গেলে অটো বেট বন্ধ করুন।"
     },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
+    "AladdinsWishes": {
+        "game_name": "Aladdin's Wishes",
+        "game_icon_name": "Aladdin's Wishes"
     },
     "FreeSpinBonus": {
         "bet_level": "বেট লেভেল",

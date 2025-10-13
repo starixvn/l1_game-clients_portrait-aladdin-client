@@ -85,6 +85,7 @@ export const languages = {
         "losses": "損失",
         "maintenance_time": "メンテナンス時間",
         "manual": "手動",
+        "max": "最大値",
         "max_stake_hand": "ハンドの最大合計ベット額は%{maxBet}です",
         "md5_copy": "コピー",
         "md5_key": "MD5キー",
@@ -258,6 +259,7 @@ export const languages = {
         "start": "スタート",
         "start_auto_bet": "自動ベット開始",
         "start_in": "{time}に開始",
+        "stop_auto_bet": "自動ベットを停止",
         "stop_on_loss": "損失時に停止",
         "stop_on_win": "勝利時に停止",
         "submit": "送信",
@@ -291,7 +293,22 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "msg_rotate_to_portrait": "画面を縦向きに回してプレイしてください。",
+        "auto_bet_header": "自動ベットの説明",
+        "how_to_use_auto_bet": "Auto Betの使い方",
+        "auto_bet_para_1": "Auto Betでは、選択した条件が満たされるまで、自動ベットのルールを設定できます。",
+        "auto_bet_para_2": "ベット数：自動ベットの合計ラウンド数。",
+        "auto_bet_para_3": "勝利時",
+        "auto_bet_para_3_1": "リセット - 勝利後、最初のベットに戻ります。",
+        "auto_bet_para_3_2": "増加: 勝利時に設定された割合でベットを上げます。",
+        "auto_bet_para_3_3": "（例：+20%に設定 → 10ドルから開始 → 勝利 → 次のベット12ドル）",
+        "auto_bet_para_4": "敗北時",
+        "auto_bet_para_4_1": "Reset: 負けた後、最初の賭け金に戻ります。",
+        "auto_bet_para_4_2": "Reset: 負けた場合、賭け金を一定の割合で上げます。 ",
+        "auto_bet_para_4_3": "（例：+50%に設定 → $10から開始 → 負け → 次のベット $15）",
+        "auto_bet_para_5": "Stop on Win：勝利目標に達したら自動ベットを停止します。",
+        "auto_bet_para_6": "損失ストップ：損失限度額に達した場合、自動ベットを停止します。"
     },
     "cascadingslot": {
         "auto_spin": "オートスピン",
@@ -303,6 +320,7 @@ export const languages = {
         "bet_level_shorten": "ベットレベル",
         "bet_multiplier_x": "ベットマルチプライヤー 20倍",
         "big_win": "Big Win",
+        "btn_buy_free_spins": "Free Spins\nを購入",
         "buy_free_spins": "Free Spinsを購入",
         "coin_value": "コインバリュー",
         "coin_value_shorten": "コインバリュー",
@@ -335,6 +353,8 @@ export const languages = {
         "label_on_game_icon": "連鎖リール",
         "last_free_spin": "最後の Free Spin",
         "mega_win": "Mega Win",
+        "msg_free_spins": "Free Spin中で増加するマルチプライヤー",
+        "msg_random_multipliers": "最大500xのランダムマルチプライヤー",
         "multiplier": "マルチプライヤー",
         "multiplier_preview_odds": "タンブル勝利にはマルチプライヤーボーナスが適用されます。",
         "no_winning_combination": "当たりなし",
@@ -363,6 +383,7 @@ export const languages = {
         "trial_mode": "お試しモード",
         "trial_mode_text": "お試しモードです",
         "tumble_win": "タンブルウィン",
+        "turbo_icon": "ターボ",
         "turbo_mode": "ターボモード",
         "volatility": "ボラティリティ",
         "volatility_high": "高",
@@ -371,14 +392,11 @@ export const languages = {
         "warning_trial_mode": "リアルマネーでプレイ、リアルマネーを獲得！",
         "win_tumble_msg": "おめでとうございます！",
         "you_have_won": "当たりです",
-        "you_win_free_spin": "当たり",
-        "msg_random_multipliers": "最大250xのランダムマルチプライヤー",
-        "mgs_free_spins": "Free Spin中で増加するマルチプライヤー",
-        "btn_buy_free_spins": "Free Spins\nを購入"
+        "you_win_free_spin": "当たり"
     },
-    "Olympub": {
-        "game_icon_name": "Olympub",
-        "game_name": "Olympub"
+    "AladdinsWishes": {
+        "game_icon_name": "Aladdin's Wishes",
+        "game_name": "Aladdin's Wishes"
     },
     "FreeSpinBonus": {
         "bet_level": "ベットレベル",
