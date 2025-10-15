@@ -339,7 +339,7 @@ export const languages = {
         "from_settle_to_spin1": "スピンして勝とう！",
         "from_settle_to_spin2": "もっと回して、もっと勝とう！",
         "from_settle_to_spin3": "ターボモードを試そう！",
-        "gameNames.47": "トレジャーアイランド",
+        "gameNames.47": "Treasure Island",
         "header_initial_spin": "初回スピン",
         "header_no": "回",
         "header_result_board": "スピン結果",
