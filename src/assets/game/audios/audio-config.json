@@ -102,5 +102,13 @@
     "symbol-scatter-win": {
         "bundle": "resources",
         "isLazyLoad": true
+    },
+    "stinger-wincount": {
+        "bundle": "resources",
+        "isLazyLoad": true
+    },
+    "stinger-freespin-win": {
+        "bundle": "resources",
+        "isLazyLoad": true
     }
 }
